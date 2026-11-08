@@ -1,0 +1,102 @@
+1:"$Sreact.fragment"
+2:I[92261,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"UnitPresence"]
+3:I[22016,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],""]
+4:I[5014,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"default"]
+5:I[80576,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"LessonSection"]
+b:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+6:T12f0,## 1. Be going to — Kế hoạch đã quyết định trước
+
+**Tiếng Anh:** We use **be going to + base form** to talk about plans and decisions made earlier.
+
+**Tiếng Việt:** Dùng **be going to + V(nguyên mẫu)** khi đã quyết định / lên kế hoạch từ **trước** khi nói.
+
+| Dạng | Cấu trúc |
+|---|---|
+| Khẳng định | S + am/is/are + going to + V |
+| Phủ định | S + am/is/are + not + going to + V |
+| Nghi vấn | Am/Is/Are + S + going to + V? |
+
+**Ví dụ:**
+- *We're going to see a play this evening.* — Tối nay chúng tôi sẽ đi xem kịch (đã lên kế hoạch).
+- *I'm going to study medicine at university.* — Tôi sẽ học y (đã quyết định).
+- *Are you going to visit Grandma this weekend?* — Cuối tuần bạn có định thăm bà không?
+
+> **Dấu hiệu:** đã có ý định/kế hoạch từ trước — *I've decided, I plan to, We've arranged…*
+
+## 2. Be going to — Dự đoán dựa trên bằng chứng
+
+**Tiếng Việt:** Cũng dùng **be going to** khi dự đoán điều **sắp** xảy ra vì **thấy bằng chứng** ngay lúc này.
+
+**Ví dụ:**
+- *Look! Leo's going to win the race!* — Nhìn kìa! Leo sắp thắng!
+- *Look at those clouds! It's going to rain.* — Nhìn mây kìa! Trời sắp mưa.
+
+> **So sánh:** có bằng chứng → *going to* ( *Look at the sky! It's going to rain.* ); không bằng chứng, chỉ suy đoán → *will* ( *I think it'll rain tomorrow.* ).
+
+## 3. Will / won't — Quyết định tức thì & lời đề nghị
+
+**Tiếng Anh:** We use **will** or **won't + base form** to talk about instant decisions or offers.
+
+**Tiếng Việt:** Dùng **will ('ll)** khi quyết định **ngay lúc nói** hoặc đề nghị giúp ai đó.
+
+| Dạng | Cấu trúc |
+|---|---|
+| Khẳng định | S + will ('ll) + V |
+| Phủ định | S + won't + V |
+| Nghi vấn | Will + S + V? |
+
+**Ví dụ:**
+- *It's raining. I'll take an umbrella.* — Trời mưa. Tôi sẽ lấy ô (quyết định ngay).
+- *That bag looks heavy. I'll carry it for you.* — Túi nặng quá, để tôi xách giúp (đề nghị).
+
+> **Dấu hiệu:** phản ứng ngay với tình huống, lời đề nghị — *OK, I'll…; Don't worry, I'll…; I'll… if you like.*
+
+## 4. Will — Dự đoán chung về tương lai
+
+**Tiếng Anh:** We also use **will** or **won't + base form** to make predictions.
+
+**Tiếng Việt:** Dùng **will** cho dự đoán chung / ý kiến cá nhân về tương lai (không dựa vào bằng chứng trước mắt).
+
+**Ví dụ:**
+- *I'll be thirteen next year.* — Năm sau tôi sẽ 13 tuổi.
+- *I won't be famous when I grow up.* — Lớn lên tôi sẽ không nổi tiếng.
+- *One day, people will live on Mars.* — Một ngày nào đó con người sẽ sống trên Sao Hỏa.
+
+> **Dấu hiệu:** *I think, I'm sure, probably, perhaps, one day, in the future, when I grow up* → will.
+
+## 5. Present continuous — Sắp xếp chắc chắn trong tương lai
+
+**Tiếng Anh:** We often use the present continuous to talk about **definite future arrangements**.
+
+**Tiếng Việt:** Dùng **am/is/are + V-ing** cho kế hoạch/sắp xếp đã **chắc chắn** (đã đặt lịch, mua vé, hẹn giờ…).
+
+**Ví dụ:**
+- *We're having a singing lesson at 4 o'clock.* — Chúng tôi có tiết hát lúc 4 giờ (đã lên lịch).
+- *I'm not doing anything tomorrow night.* — Tối mai tôi không có việc gì.
+- *Are you leaving tomorrow morning?* — Sáng mai bạn đi à?
+
+> **So sánh:** ý định chung → *going to* ( *I'm going to learn French.* ); sắp xếp cụ thể đã xong → present continuous ( *I'm starting French classes on Monday.* ).
+
+## 6. Bảng so sánh nhanh
+
+| Cấu trúc | Khi nào dùng | Ví dụ |
+|---|---|---|
+| be going to | Kế hoạch đã quyết định trước | *I'm going to study medicine.* |
+| be going to | Dự đoán có bằng chứng | *Look! It's going to rain!* |
+| will ('ll) | Quyết định tức thì / đề nghị | *I'll help you carry that.* |
+| will ('ll) | Dự đoán chung (*I think…*) | *I think she'll win.* |
+| won't | Dự đoán phủ định / từ chối | *It won't be easy.* |
+| Present continuous | Sắp xếp chắc chắn (có hẹn/vé) | *I'm flying to London on Friday.* |
+
+## 7. Lỗi thường gặp
+
+- ❌ *I will going to visit my grandma.* → ✅ *I'm going to visit…* **hoặc** *I will visit…* (không trộn will + going to).
+- ❌ *She's going to swimming.* → ✅ *She's going to swim.* (sau *going to* dùng V nguyên mẫu).
+- ❌ *I going to buy a new phone.* → ✅ *I am going to buy…* (đừng quên **be**).
+- ❌ *I will meet John at 3pm.* (đã hẹn trước) → ✅ *I'm meeting John at 3pm.* (present continuous cho sắp xếp chắc chắn).0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-8","children":[["$","$L2",null,{"unitId":"unit-1"}],["$","nav",null,{"className":"mb-4 text-sm","children":["$","$L3",null,{"href":"/course/grade-6/grammar-friends-6/","className":"inline-flex items-center gap-1 text-muted-foreground transition-colors hover:text-primary","children":[["$","$L4",null,{"iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left size-4","aria-hidden":"true"}],"Quay lại khóa học"]}]}],["$","header",null,{"className":"mb-8","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-wide text-muted-foreground","children":"Unit 1: First Prize!"}],["$","h1",null,{"className":"font-heading text-2xl font-extrabold text-foreground sm:text-3xl","children":"Ghi nhớ ngữ pháp"}]]}],["$","$L5",null,{"lesson":{"frontmatter":{"section":"grammar"},"body":"$6","audioSrcs":[],"vocabPreview":[],"vocabReviewOld":[],"hasDraftTranslation":false,"hasDraftExtra":false,"hasDraftTheory":false,"hasDraftPractice":false},"grade":"grade-6","book":"grammar-friends-6","section":"grammar","gameUnitId":"gf6-unit-1-first-prize","quizTitle":"Ghi nhớ ngữ pháp","theory":{"brief":"We use 'be going to + base form' for plans/decisions made earlier and predictions based on current evidence. We use 'will/won't + base form' for instant decisions, offers, and general predictions. We use the present continuous for definite future arrangements.","examples":["We're going to see a play this evening. (plan)","Look! He's going to fall! (prediction from evidence)","It's raining. I'll take an umbrella. (instant decision)","I won't be famous when I grow up. (prediction)","We're leaving at 10 o'clock tomorrow. (future arrangement)"]}}]]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gT-6PjrV4wQqpD_vfveUP"}
+7:["$","script","script-0",{"src":"/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","async":true}]
+8:["$","script","script-1",{"src":"/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","async":true}]
+9:["$","script","script-2",{"src":"/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js","async":true}]
+a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+2:I[92261,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"UnitPresence"]
+3:I[22016,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],""]
+4:I[5014,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"default"]
+5:I[80576,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"LessonSection"]
+b:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+6:T1267,Chào em! Thầy xem lại bài Unit 1 của em rồi. Em làm khá tốt (163/200), nhưng thầy để ý em làm lại lần hai mà điểm chỉ nhích lên một chút thôi — nghĩa là chỗ sai chưa phải do bất cẩn, mà là do em còn đang lẫn lộn giữa **will**, **be going to** và **thì hiện tại tiếp diễn**. Ba cái này là "bộ ba dễ nhầm" của cả lớp 6, không riêng gì em đâu, nên đừng lo — mình ôn kỹ lại một lượt là ổn.
+
+## Bí quyết: chỉ cần hỏi một câu
+
+Trước khi chọn will hay going to, em tự hỏi:
+
+> **"Mình đã nghĩ đến chuyện này trước khi mở miệng nói chưa, hay là mình vừa nghĩ ra ngay lúc này?"**
+
+- Nghĩ ra **ngay lúc nói** → dùng **will/won't**.
+- Đã **quyết định/lên kế hoạch từ trước** → dùng **be going to**.
+- Đã **hẹn giờ, đặt vé, ghi vào lịch** hẳn hoi → dùng **thì hiện tại tiếp diễn** (am/is/are + V-ing) cũng được, và nghe tự nhiên hơn going to.
+
+Ví dụ đời thường:
+
+- Điện thoại đang reo, em buột miệng: *"I'll get it!"* — quyết định tức thì, dùng **will**.
+- Chủ nhật tuần sau cả nhà em đi Đà Lạt, vé xe đã mua từ tuần trước rồi: *"We're going to visit Đà Lạt next Sunday."* hoặc *"We're visiting Đà Lạt next Sunday."* — đã lên kế hoạch, dùng **be going to + V** (hoặc hiện tại tiếp diễn vì đã có vé).
+- Nhìn trời đầy mây đen: *"Look at those clouds — it's going to rain!"* — có **bằng chứng ngay trước mắt**, dùng **be going to**, không dùng will.
+
+## 4 lỗi em hay vấp — sửa từng cái một
+
+### Lỗi 1: Chọn will/going to sai vì không phân biệt "trước" và "ngay lúc này"
+
+- ❌ *I told Suzy to get biscuits, but I'm sure she's going to forget.*
+- ✅ *...but I'm sure she'll forget.* — đây là **dự đoán chung**, không có bằng chứng, không phải kế hoạch → will.
+- ❌ *Look! He will fall!*
+- ✅ *Look! He's going to fall!* — có bằng chứng ngay trước mắt (đang chực ngã) → going to.
+
+**Mẹo nhớ:** thấy chữ **"Look!"**, **"Watch out!"** → 99% là going to. Thấy **"I think"**, **"I'm sure"**, **"probably"** → will.
+
+### Lỗi 2: Quên chia "is/are" cho đúng chủ ngữ trong be going to
+
+- ❌ *Gina and Charles is going to play computer games.*
+- ✅ *Gina and Charles **are** going to play...* — hai người → are, không phải is.
+- ❌ *My brother are going to live in France.*
+- ✅ *My brother **is** going to live...* — một người → is.
+
+**Mẹo nhớ:** đếm chủ ngữ trước — một người/vật → is; từ hai trở lên, hoặc "you/we/they" → are.
+
+### Lỗi 3: Quên "any" khi phủ định dự đoán với there will/won't be
+
+- ❌ *There won't be traffic in the streets.*
+- ✅ *There won't be **any** traffic in the streets.*
+
+**Mẹo nhớ:** câu phủ định kiểu "sẽ không có..." với danh từ số nhiều/không đếm được → luôn có "any" đứng sau won't be.
+
+### Lỗi 4: Chen chữ "not" sai chỗ khi ghép với "going to"
+
+- ❌ *Sally isn't to going learn Chinese.*
+- ✅ *Sally **isn't going to** learn Chinese.* — "not" đi ngay sau is/are, đứng trước "going to" — không tách "going to" ra làm đôi.
+
+## Tự kiểm tra nhanh (làm nhẩm trong đầu, không cần nộp)
+
+1. Trời đang mưa, em nói: "Con ___ (lấy) ô." → quyết định ngay → *I'll take an umbrella.*
+2. Thứ Bảy này cả nhóm đi xem phim, vé đã đặt xong từ hôm qua. → đã lên kế hoạch → *We're going to see / We're seeing a movie this Saturday.*
+3. Nhìn đám mây đen kịt trên trời → có bằng chứng → *It's going to rain.*
+4. Hai bạn Nam và Lan ___ (không/chơi) game tối nay vì phải học bài. → chủ ngữ số nhiều, phủ định → *Nam and Lan **aren't** going to play games tonight.*
+5. Dự đoán chung, không bằng chứng: "Chắc là robot sẽ làm hầu hết công việc trong tương lai." → *Robots **will** do most jobs in the future.*
+6. "Sẽ không có xe cộ nào trên đường" (dự đoán năm 2050) → nhớ "any" → *There **won't be any** cars on the roads.*
+
+Đáp án nằm ngay sau dấu → trong mỗi câu — em tự đối chiếu xem mình chọn đúng chưa nhé.
+
+## Sau khi đọc xong
+
+Em vào lại Unit 1 (Luyện tập) và làm lại nhé. Lần này thầy tin em sẽ lên được 3 sao. Nếu vẫn còn chỗ nào thấy rối, cứ hỏi thầy trực tiếp — mình sẽ ôn lại bằng miệng cho chắc.0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-8","children":[["$","$L2",null,{"unitId":"unit-1"}],["$","nav",null,{"className":"mb-4 text-sm","children":["$","$L3",null,{"href":"/course/grade-6/grammar-friends-6/","className":"inline-flex items-center gap-1 text-muted-foreground transition-colors hover:text-primary","children":[["$","$L4",null,{"iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left size-4","aria-hidden":"true"}],"Quay lại khóa học"]}]}],["$","header",null,{"className":"mb-8","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-wide text-muted-foreground","children":"Unit 1: First Prize!"}],["$","h1",null,{"className":"font-heading text-2xl font-extrabold text-foreground sm:text-3xl","children":"Ôn tập cùng thầy"}]]}],["$","$L5",null,{"lesson":{"frontmatter":{"section":"on-tap-cung-thay"},"body":"$6","audioSrcs":[],"vocabPreview":[],"vocabReviewOld":[],"hasDraftTranslation":false,"hasDraftExtra":false,"hasDraftTheory":false,"hasDraftPractice":false},"grade":"grade-6","book":"grammar-friends-6","section":"on-tap-cung-thay","gameUnitId":"gf6-unit-1-first-prize","quizTitle":"Ôn tập cùng thầy","theory":{"brief":"We use 'be going to + base form' for plans/decisions made earlier and predictions based on current evidence. We use 'will/won't + base form' for instant decisions, offers, and general predictions. We use the present continuous for definite future arrangements.","examples":["We're going to see a play this evening. (plan)","Look! He's going to fall! (prediction from evidence)","It's raining. I'll take an umbrella. (instant decision)","I won't be famous when I grow up. (prediction)","We're leaving at 10 o'clock tomorrow. (future arrangement)"]}}]]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gT-6PjrV4wQqpD_vfveUP"}
+7:["$","script","script-0",{"src":"/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","async":true}]
+8:["$","script","script-1",{"src":"/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","async":true}]
+9:["$","script","script-2",{"src":"/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js","async":true}]
+a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

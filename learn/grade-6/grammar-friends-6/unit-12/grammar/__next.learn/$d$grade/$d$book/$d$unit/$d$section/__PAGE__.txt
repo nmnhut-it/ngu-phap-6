@@ -1,0 +1,147 @@
+1:"$Sreact.fragment"
+2:I[92261,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"UnitPresence"]
+3:I[22016,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],""]
+4:I[5014,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"default"]
+5:I[80576,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"LessonSection"]
+b:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+6:T1a89,## 1. Wish + Past Simple — Ước về hiện tại
+
+**Tiếng Anh:** We use **wish + past simple** to talk about situations that we would like to be different.
+
+**Tiếng Việt:** Dùng **wish + past simple** để nói về những tình huống hiện tại mà mình muốn **khác đi** (không có thật).
+
+| Dạng | Cấu trúc |
+|---|---|
+| Câu ước | S + wish(es) + S + V (past simple) |
+
+**Ví dụ:**
+- *We don't live by the sea. → I wish we **lived** by the sea.* — Chúng tôi không sống gần biển → Tôi ước sống gần biển.
+- *She doesn't have a pet. → She wishes she **had** a pet.* — Cô ấy không có thú cưng → Cô ấy ước có thú cưng.
+- *It rains all the time. → I wish it **didn't rain** all the time.* — Trời mưa suốt → Tôi ước trời không mưa suốt.
+
+> **Mẹo nhớ:** thực tế phủ định (*don't have*) → wish + khẳng định quá khứ (*had*); thực tế khẳng định không muốn (*rains*) → wish + *didn't* + V.
+
+## 2. Wish + Could + V — Ước về khả năng
+
+**Tiếng Anh:** We can also use **wish + could + base form**.
+
+**Tiếng Việt:** Dùng **wish + could + V(nguyên mẫu)** khi ước có khả năng làm gì đó mà thực tế **không thể**.
+
+| Dạng | Cấu trúc |
+|---|---|
+| Câu ước | S + wish(es) + S + could + V |
+
+**Ví dụ:**
+- *I can't play the guitar. → I wish I **could** play the guitar.* — Tôi không biết chơi ghi-ta → Tôi ước biết chơi ghi-ta.
+- *She can't swim. → She wishes she **could** swim.* — Cô ấy không biết bơi → Cô ấy ước biết bơi.
+- *We can't fly. → We wish we **could** fly like birds.* — Chúng ta không thể bay → Ước có thể bay như chim.
+
+> **Lỗi thường gặp:** *I wish I can fly.* (sai — dùng hiện tại) → *I wish I could fly.* (đúng — dùng quá khứ); *I wish I will be rich.* (sai — dùng tương lai) → *I wish I was/were rich.* (đúng — dùng quá khứ).
+
+## 3. So sánh: Thực tế vs Câu ước
+
+**Tiếng Việt:** Đối chiếu câu thực tế (Fact) với câu ước (Wish) để thấy cách chuyển đổi động từ.
+
+| Thực tế (Fact) | Câu ước (Wish) |
+|---|---|
+| I don't have a car. | I wish I **had** a car. |
+| She is short. | She wishes she **was/were** taller. |
+| He can't cook. | He wishes he **could** cook. |
+| We have to work. | We wish we **didn't have to** work. |
+| It rains a lot. | I wish it **didn't rain** a lot. |
+
+> **Quy tắc chuyển đổi:**
+> - *don't/doesn't* + V → wish + V (quá khứ)
+> - V (không muốn) → wish + *didn't* + V
+> - *can't* + V → wish + *could* + V
+> - *is/are* (điều không thích) → wish + *wasn't/weren't*
+> - He/She + wish → **wishes** (thêm *-es* cho ngôi thứ 3)
+
+## 4. Question Tags: Khẳng định → tag phủ định
+
+**Tiếng Anh:** Question tags are short questions that we use at the end of a statement. We use question tags to say "Is that right?" or "Do you agree?" — **affirmative statement + negative tag**.
+
+**Tiếng Việt:** Câu hỏi đuôi là câu hỏi ngắn đặt ở cuối câu để hỏi "Đúng không?" / "Bạn có đồng ý không?". Câu **khẳng định** thì dùng **tag phủ định**.
+
+| Câu khẳng định | Question Tag |
+|---|---|
+| You are happy, | **aren't you?** |
+| She can swim, | **can't she?** |
+| He will come, | **won't he?** |
+| You like pizza, | **don't you?** |
+| She plays tennis, | **doesn't she?** |
+| They went home, | **didn't they?** |
+
+## 5. Question Tags: Phủ định → tag khẳng định
+
+**Tiếng Anh:** **Negative statement + affirmative tag.** We always use a pronoun in the question tag, not a name or a noun.
+
+**Tiếng Việt:** Câu **phủ định** thì dùng **tag khẳng định**. Trong tag luôn dùng đại từ, không dùng tên hay danh từ.
+
+| Câu phủ định | Question Tag |
+|---|---|
+| You aren't tired, | **are you?** |
+| She can't drive, | **can she?** |
+| He won't forget, | **will he?** |
+| You don't eat meat, | **do you?** |
+| She didn't call, | **did she?** |
+
+## 6. Trường hợp đặc biệt
+
+**Tiếng Việt:** Một vài câu có cách tạo tag riêng cần ghi nhớ.
+
+| Câu | Tag đặc biệt | Giải thích |
+|---|---|---|
+| I am right, | **aren't I?** | Không có "amn't" → dùng *aren't* |
+| I'm not late, | **am I?** | Phủ định → tag khẳng định |
+| Nobody came, | **did they?** | *Nobody* = phủ định → tag khẳng định, dùng *they* |
+| Everything is OK, | **isn't it?** | *Everything* → *it* trong tag |
+
+> **Nhớ kỹ:**
+> - *I am* → **aren't I?** (không có *amn't*!)
+> - *Nobody/Nothing/No one* = nghĩa phủ định → tag khẳng định
+> - *Nobody/Everybody* → dùng *they* trong tag
+> - *Everything/Something* → dùng *it* trong tag
+
+## 7. Quy tắc chọn trợ động từ trong tag
+
+**Tiếng Anh:** With the verbs **be**, **can**, and **will** we repeat the verb. With most other verbs, we use **do**, **don't**, **did**, **didn't** in the question tag.
+
+**Tiếng Việt:** Với *be*, *can*, *will* (và các trợ động từ) thì **lặp lại chính nó** trong tag; với động từ thường thì dùng *do/does/did*. Thì của tag phải khớp với câu chính.
+
+| Câu chính có | Tag dùng | Ví dụ |
+|---|---|---|
+| am/is/are | am/isn't/aren't | *She is kind, isn't she?* |
+| was/were | wasn't/weren't | *He was late, wasn't he?* |
+| can/could | can't/couldn't | *You can drive, can't you?* |
+| will/would | won't/wouldn't | *He will come, won't he?* |
+| should/must | shouldn't/mustn't | *We should go, shouldn't we?* |
+| have/has (hoàn thành) | haven't/hasn't | *She has gone, hasn't she?* |
+| Động từ thường (HTĐ) | do/don't/does/doesn't | *You like tea, don't you?* |
+| Động từ thường (QKĐ) | did/didn't | *He went home, didn't he?* |
+
+> **Mẹo nhớ:**
+> - Có *be/can/will/should/must/have* → lặp lại chính nó trong tag.
+> - Động từ thường (*play, eat, go…*) → dùng *do/does/did* trong tag.
+> - Thì của tag phải khớp với thì của câu chính!
+
+## 8. Lỗi thường gặp
+
+**Lỗi Wish:**
+- ❌ *I wish I can fly.* → ✅ *I wish I could fly.*
+- ❌ *I wish I have a pet.* → ✅ *I wish I had a pet.*
+- ❌ *I wish I am taller.* → ✅ *I wish I was/were taller.*
+- ❌ *I wish I don't work.* → ✅ *I wish I didn't work.*
+- ❌ *He wish he had time.* → ✅ *He wishes he had time.*
+
+**Lỗi Question Tag:**
+- ❌ *She is tall, is she?* → ✅ *She is tall, isn't she?*
+- ❌ *He went home, doesn't he?* → ✅ *He went home, didn't he?*
+- ❌ *I am right, amn't I?* → ✅ *I am right, aren't I?*
+- ❌ *Tom likes fish, doesn't Tom?* → ✅ *Tom likes fish, doesn't he?*0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-8","children":[["$","$L2",null,{"unitId":"unit-12"}],["$","nav",null,{"className":"mb-4 text-sm","children":["$","$L3",null,{"href":"/course/grade-6/grammar-friends-6/","className":"inline-flex items-center gap-1 text-muted-foreground transition-colors hover:text-primary","children":[["$","$L4",null,{"iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left size-4","aria-hidden":"true"}],"Quay lại khóa học"]}]}],["$","header",null,{"className":"mb-8","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-wide text-muted-foreground","children":"Unit 12: Going Places"}],["$","h1",null,{"className":"font-heading text-2xl font-extrabold text-foreground sm:text-3xl","children":"Ghi nhớ ngữ pháp"}]]}],["$","$L5",null,{"lesson":{"frontmatter":{"section":"grammar"},"body":"$6","audioSrcs":[],"vocabPreview":[],"vocabReviewOld":[],"hasDraftTranslation":false,"hasDraftExtra":false,"hasDraftTheory":false,"hasDraftPractice":false},"grade":"grade-6","book":"grammar-friends-6","section":"grammar","gameUnitId":"gf6-unit-12-going-places","quizTitle":"Ghi nhớ ngữ pháp","theory":{"brief":"We use wish + past simple to talk about situations we want to be different. We use question tags (short questions) at the end of statements to check information or seek agreement.","rules":["Wish + past simple: diễn tả điều ước về hiện tại (không có thật)","Wish + could + V: ước có khả năng làm gì (không thể làm được)","Question tag: câu khẳng định → tag phủ định, câu phủ định → tag khẳng định","I am → aren't I? (trường hợp đặc biệt)","Let's → shall we? (trường hợp đặc biệt)"]}}]]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gT-6PjrV4wQqpD_vfveUP"}
+7:["$","script","script-0",{"src":"/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","async":true}]
+8:["$","script","script-1",{"src":"/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","async":true}]
+9:["$","script","script-2",{"src":"/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js","async":true}]
+a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

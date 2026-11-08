@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[39756,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"default"]
+3:I[37457,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"gT-6PjrV4wQqpD_vfveUP"}

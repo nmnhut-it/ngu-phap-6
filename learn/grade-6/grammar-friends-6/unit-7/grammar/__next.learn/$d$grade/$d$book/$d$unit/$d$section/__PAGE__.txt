@@ -1,0 +1,108 @@
+1:"$Sreact.fragment"
+2:I[92261,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"UnitPresence"]
+3:I[22016,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],""]
+4:I[5014,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"default"]
+5:I[80576,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"LessonSection"]
+b:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+6:T1486,**Tiếng Anh:** We use **who**, **which** and **where** after a noun to give more information about people, things or places.
+
+**Tiếng Việt:** Dùng **who / which / where** sau một danh từ để bổ sung thông tin về người, vật hoặc nơi chốn.
+
+## 1. Who — Dùng cho người
+
+**Tiếng Anh:** We use **who** for people.
+
+**Tiếng Việt:** Dùng **who** khi danh từ đứng trước chỉ **người**.
+
+**Cấu trúc:** Danh từ chỉ người + **who** + động từ (hoặc chủ ngữ + động từ)
+
+**Ví dụ:**
+- *He is the boy who got lost.* — Anh ấy là cậu bé bị lạc.
+- *The teacher who teaches us English is kind.* — Cô giáo dạy tiếng Anh cho chúng tôi rất tốt bụng.
+- *I know a man who can speak five languages.* — Tôi biết một người đàn ông nói được năm thứ tiếng.
+
+> **Mẹo nhớ:** Danh từ trước là NGƯỜI (boy, girl, man, woman, teacher, doctor…) → dùng **who**.
+
+## 2. Which — Dùng cho vật / động vật
+
+**Tiếng Anh:** We use **which** for things or animals.
+
+**Tiếng Việt:** Dùng **which** khi danh từ đứng trước chỉ **vật** hoặc **động vật**.
+
+**Cấu trúc:** Danh từ chỉ vật/động vật + **which** + động từ (hoặc chủ ngữ + động từ)
+
+**Ví dụ:**
+- *You need a map which shows the area near the river.* — Bạn cần một bản đồ chỉ khu vực gần sông.
+- *She has a cat which is very fluffy.* — Cô ấy có một con mèo rất xù.
+- *I bought a book which has many pictures.* — Tôi mua một cuốn sách có nhiều hình.
+
+> **Mẹo nhớ:** Danh từ trước là VẬT hoặc ĐỘNG VẬT (book, car, dog, cat, film…) → dùng **which**.
+
+## 3. Where — Dùng cho nơi chốn
+
+**Tiếng Anh:** We use **where** for places.
+
+**Tiếng Việt:** Dùng **where** khi danh từ đứng trước chỉ **nơi chốn**.
+
+**Cấu trúc:** Danh từ chỉ nơi chốn + **where** + chủ ngữ + động từ
+
+**Ví dụ:**
+- *That's the park where the treasure hunt is taking place.* — Đó là công viên nơi cuộc săn kho báu đang diễn ra.
+- *This is the school where my sister studies.* — Đây là trường nơi chị tôi học.
+- *Do you know the restaurant where they serve pizza?* — Bạn có biết nhà hàng nơi họ phục vụ pizza không?
+
+> **Mẹo nhớ:** Danh từ trước là NƠI CHỐN (park, school, city, house, hospital…) → dùng **where**.
+
+## 4. That — Thay cho who / which (nhưng KHÔNG thay where!)
+
+**Tiếng Anh:** We can use **that** after nouns to give more information about people and things. We use **that** or **who** for people; **that** or **which** for things or animals; **where** for places.
+
+**Tiếng Việt:** Có thể dùng **that** thay cho **who** (chỉ người) và **which** (chỉ vật), nhưng **that KHÔNG** thay được **where** (chỉ nơi chốn).
+
+| Quy tắc | Ví dụ |
+|---|---|
+| **that** thay **who** (cho người) | The boy that got lost = The boy who got lost |
+| **that** thay **which** (cho vật) | A sport that exercises the mind = A sport which exercises the mind |
+| **that** KHÔNG thay **where** | The park where we play ≠ The park that we play |
+
+**Ví dụ:**
+- *He's a man that loves travelling.* (= who) — Anh ấy là người thích đi du lịch.
+- *Orienteering is a sport that exercises the mind.* (= which) — Định hướng là môn thể thao rèn luyện trí óc.
+- *This is the park that we play.* — SAI! Phải dùng **where**.
+
+## 5. Khi nào dùng / không dùng that?
+
+**Tiếng Việt:** Nắm rõ trường hợp nào thay được **that** và trường hợp nào thì không.
+
+- **Dùng that khi:**
+  - Thay **who** cho người: *The girl that sits next to me…*
+  - Thay **which** cho vật/động vật: *The book that I read…*
+- **KHÔNG dùng that khi:**
+  - Thay **where** cho nơi chốn: *The place where I live* (KHÔNG: *the place that I live*).
+
+## 6. Mệnh đề quan hệ xác định (Defining relative clauses)
+
+**Tiếng Việt:** Đây là loại mệnh đề quan hệ **xác định** — thông tin CẦN THIẾT để biết chính xác người/vật/nơi nào đang được nói tới.
+
+**Đặc điểm:**
+- KHÔNG có dấu phẩy trước who/which/where.
+- Thông tin quan trọng → nếu bỏ đi thì không hiểu rõ câu.
+- Có thể dùng **that** thay cho who/which.
+
+**Ví dụ:**
+- *The boy who got lost was scared.* — Cậu bé NÀO? → cậu bé bị lạc.
+- *I need a map which shows the area.* — Bản đồ NÀO? → bản đồ chỉ khu vực.
+
+## 7. Lỗi thường gặp
+
+- ❌ *The dog who bit me…* → ✅ *The dog which bit me…* (dùng **which** cho động vật, không dùng who).
+- ❌ *The girl which won…* → ✅ *The girl who won…* (dùng **who** cho người, không dùng which).
+- ❌ *The boy where lives next door…* → ✅ *The boy who lives next door…* (không dùng where khi không phải nơi chốn).
+- ❌ *The hotel which we stayed…* → ✅ *The hotel where we stayed…* (dùng **where** cho nơi chốn).
+- ❌ *The park that we play…* → ✅ *The park where we play…* (**that** không thay được **where**).0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-8","children":[["$","$L2",null,{"unitId":"unit-7"}],["$","nav",null,{"className":"mb-4 text-sm","children":["$","$L3",null,{"href":"/course/grade-6/grammar-friends-6/","className":"inline-flex items-center gap-1 text-muted-foreground transition-colors hover:text-primary","children":[["$","$L4",null,{"iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left size-4","aria-hidden":"true"}],"Quay lại khóa học"]}]}],["$","header",null,{"className":"mb-8","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-wide text-muted-foreground","children":"Unit 7: Discovery"}],["$","h1",null,{"className":"font-heading text-2xl font-extrabold text-foreground sm:text-3xl","children":"Ghi nhớ ngữ pháp"}]]}],["$","$L5",null,{"lesson":{"frontmatter":{"section":"grammar"},"body":"$6","audioSrcs":[],"vocabPreview":[],"vocabReviewOld":[],"hasDraftTranslation":false,"hasDraftExtra":false,"hasDraftTheory":false,"hasDraftPractice":false},"grade":"grade-6","book":"grammar-friends-6","section":"grammar","gameUnitId":"gf6-unit-7-discovery","quizTitle":"Ghi nhớ ngữ pháp","theory":{"brief":"Đại từ quan hệ (who, which, where) dùng sau danh từ để bổ sung thông tin. WHO cho người, WHICH cho vật/động vật, WHERE cho nơi chốn. THAT có thể thay who/which nhưng KHÔNG thay where.","rules":["WHO: Dùng cho NGƯỜI — The boy who got lost was scared.","WHICH: Dùng cho VẬT / ĐỘNG VẬT — The map which shows the river is useful.","WHERE: Dùng cho NƠI CHỐN — That's the park where we play.","THAT: Thay được WHO hoặc WHICH — The boy that got lost / The map that shows...","THAT KHÔNG thay WHERE — KHÔNG nói: the park that we play ","Đây là mệnh đề quan hệ XÁC ĐỊNH (defining) — thông tin cần thiết, không có dấu phẩy"]}}]]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gT-6PjrV4wQqpD_vfveUP"}
+7:["$","script","script-0",{"src":"/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","async":true}]
+8:["$","script","script-1",{"src":"/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","async":true}]
+9:["$","script","script-2",{"src":"/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js","async":true}]
+a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

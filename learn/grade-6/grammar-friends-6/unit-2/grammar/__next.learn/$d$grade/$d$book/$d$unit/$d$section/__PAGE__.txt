@@ -1,0 +1,99 @@
+1:"$Sreact.fragment"
+2:I[92261,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"UnitPresence"]
+3:I[22016,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],""]
+4:I[5014,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"default"]
+5:I[80576,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"LessonSection"]
+b:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+6:T1624,## 1. First Conditional — Điều kiện loại 1 (có thể xảy ra)
+
+**Tiếng Anh:** We use the **first conditional** to talk about something that will happen if something else happens first.
+
+**Tiếng Việt:** Dùng khi nói về điều **có thể xảy ra thật** trong tương lai. Điều kiện là hợp lý, có khả năng xảy ra.
+
+**Cấu trúc:** *If + S + V (hiện tại đơn), S + will + V (nguyên mẫu).*
+
+**Ví dụ:**
+- *If it rains, we will take the bus.* — Nếu trời mưa, chúng ta sẽ đi xe buýt (trời CÓ THỂ mưa thật).
+- *If you study hard, you will pass the exam.* — Nếu bạn học chăm, bạn sẽ đỗ (điều này hoàn toàn có thể).
+- *If she finishes early, she'll come to the party.* — Nếu cô ấy xong sớm, cô ấy sẽ đến bữa tiệc.
+
+> **Dấu hiệu:** Tình huống CÓ THỂ xảy ra → dùng loại 1. Vế IF dùng hiện tại đơn (KHÔNG dùng *will*!), vế kết quả dùng *will*. — *If it will rain…* (SAI) → *If it rains…* (ĐÚNG).
+
+## 2. First Conditional — Phủ định & câu hỏi
+
+**Tiếng Anh:** We make first conditional questions and short answers with **will/won't + subject + base form + if-clause**.
+
+**Tiếng Việt:** Vế kết quả ở dạng phủ định dùng **won't**; câu hỏi đảo **will** lên đầu.
+
+| Dạng | Cấu trúc |
+|---|---|
+| Phủ định | If + S + don't/doesn't + V, S + won't + V |
+| Câu hỏi | Will + S + V + if + S + V (hiện tại đơn)? |
+
+**Ví dụ:**
+- *If you don't hurry, you won't catch the bus.* — Nếu bạn không nhanh lên, bạn sẽ không kịp xe buýt.
+- *If he doesn't study, he won't pass.* — Nếu anh ấy không học, anh ấy sẽ không đỗ.
+- *Will you phone me if you pass the exam? — Yes, I will. / No, I won't.* — Bạn sẽ gọi cho tôi nếu bạn đỗ chứ?
+- *Will it be cheaper if we bring our own food? — Yes, it will.* — Sẽ rẻ hơn nếu chúng ta mang đồ ăn riêng chứ?
+
+## 3. Second Conditional — Điều kiện loại 2 (không có thật / tưởng tượng)
+
+**Tiếng Anh:** We use the **second conditional** to talk about something that we think might not happen.
+
+**Tiếng Việt:** Dùng khi nói về điều **không có thật** ở hiện tại hoặc **khó xảy ra / tưởng tượng**.
+
+**Cấu trúc:** *If + S + V (quá khứ đơn), S + would + V (nguyên mẫu).*
+
+**Ví dụ:**
+- *If I had wings, I would fly really fast.* — Nếu tôi có cánh, tôi sẽ bay thật nhanh (tôi KHÔNG có cánh — tưởng tượng!).
+- *If she lived in France, she would speak French.* — Nếu cô ấy sống ở Pháp, cô ấy sẽ nói tiếng Pháp (cô ấy KHÔNG sống ở Pháp!).
+- *If I won the lottery, I'd buy a big house.* — Nếu tôi trúng xổ số, tôi sẽ mua nhà lớn (rất khó xảy ra!).
+
+> **Dấu hiệu:** Tình huống KHÔNG CÓ THẬT / tưởng tượng → dùng loại 2. Vế IF dùng quá khứ đơn, vế kết quả dùng *would*. *'d = would* (viết tắt): *I'd = I would, he'd = he would.*
+
+## 4. Second Conditional — If I were… & phủ định
+
+**Tiếng Anh:** In the second conditional we make questions with **would/wouldn't + subject + base form + if-clause**.
+
+**Tiếng Việt:** Với động từ **be** trong câu điều kiện loại 2, dùng **were** cho tất cả các ngôi (đặc biệt trong văn viết trang trọng).
+
+**Ví dụ:**
+- *If I were you, I would study harder.* — Nếu tôi là bạn, tôi sẽ học chăm hơn.
+- *If she were taller, she would play basketball.* — Nếu cô ấy cao hơn, cô ấy sẽ chơi bóng rổ.
+
+| Dạng | Cấu trúc |
+|---|---|
+| Phủ định | If + S + didn't + V, S + wouldn't + V |
+| Câu hỏi | Would + S + V + if + S + V (quá khứ đơn)? |
+
+**Ví dụ:**
+- *If she didn't study, she wouldn't pass her exams.* — Nếu cô ấy không học, cô ấy sẽ không đỗ.
+- *Would you be surprised if it rained in the desert? — Yes, I would. / No, I wouldn't.* — Bạn có ngạc nhiên không nếu trời mưa ở sa mạc?
+
+> **Lưu ý:** *If I was…* cũng được chấp nhận trong văn nói, nhưng *If I were…* chuẩn hơn.
+
+## 5. So sánh: Loại 1 vs Loại 2 — Khi nào dùng?
+
+| | Loại 1 (First) | Loại 2 (Second) |
+|---|---|---|
+| Tình huống | Có thể xảy ra thật | Không có thật / tưởng tượng |
+| Vế IF | Hiện tại đơn | Quá khứ đơn |
+| Vế kết quả | will / won't + V | would / wouldn't + V |
+| Ví dụ | *If it rains, I'll stay home.* | *If I had wings, I'd fly.* |
+
+> **So sánh cùng chủ đề:**
+> - Loại 1: *If I have money, I will buy a new phone.* → Tôi CÓ THỂ có tiền (thực tế, có thể xảy ra).
+> - Loại 2: *If I had a million dollars, I would buy a mansion.* → Tôi KHÔNG CÓ triệu đô (tưởng tượng, không có thật).
+
+## 6. Lỗi thường gặp
+
+- ❌ *If it will rain, we'll stay home.* → ✅ *If it rains, we'll stay home.* — Vế IF luôn dùng hiện tại đơn (loại 1) hoặc quá khứ đơn (loại 2), KHÔNG BAO GIỜ dùng *will*!
+- ❌ *If I would have wings, I'd fly.* → ✅ *If I had wings, I'd fly.* — Vế IF không dùng *would*!
+- ❌ *If I had time tomorrow, I will help you.* (trộn lẫn 2 loại!) → ✅ *If I have time tomorrow, I will help you.* (loại 1) **hoặc** *If I had time, I would help you.* (loại 2) — Không trộn lẫn: hiện tại đơn + *will* HOẶC quá khứ đơn + *would*.
+- ❌ *If he finish early, he'll come.* → ✅ *If he finishes early, he'll come.* — Hiện tại đơn: he/she/it + V-s/es.0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-8","children":[["$","$L2",null,{"unitId":"unit-2"}],["$","nav",null,{"className":"mb-4 text-sm","children":["$","$L3",null,{"href":"/course/grade-6/grammar-friends-6/","className":"inline-flex items-center gap-1 text-muted-foreground transition-colors hover:text-primary","children":[["$","$L4",null,{"iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left size-4","aria-hidden":"true"}],"Quay lại khóa học"]}]}],["$","header",null,{"className":"mb-8","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-wide text-muted-foreground","children":"Unit 2: Will We Have Any Homework?"}],["$","h1",null,{"className":"font-heading text-2xl font-extrabold text-foreground sm:text-3xl","children":"Ghi nhớ ngữ pháp"}]]}],["$","$L5",null,{"lesson":{"frontmatter":{"section":"grammar"},"body":"$6","audioSrcs":[],"vocabPreview":[],"vocabReviewOld":[],"hasDraftTranslation":false,"hasDraftExtra":false,"hasDraftTheory":false,"hasDraftPractice":false},"grade":"grade-6","book":"grammar-friends-6","section":"grammar","gameUnitId":"gf6-unit-2-will-we-have-any-homework","quizTitle":"Ghi nhớ ngữ pháp","theory":{"brief":"First conditional: If + present simple, will/won't + base form (things likely to happen). Second conditional: If + past simple, would/wouldn't + base form (imaginary/unlikely situations).","rules":["First conditional: If + S + V(hiện tại đơn), S + will + V — điều CÓ THỂ xảy ra thật","Second conditional: If + S + V(quá khứ đơn), S + would + V — điều KHÔNG CÓ THẬT / tưởng tượng","Vế IF không bao giờ dùng will hoặc would","Second conditional với BE: dùng were cho tất cả các ngôi (If I were...)","Không trộn lẫn hai loại: present + will HOẶC past + would"]}}]]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gT-6PjrV4wQqpD_vfveUP"}
+7:["$","script","script-0",{"src":"/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","async":true}]
+8:["$","script","script-1",{"src":"/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","async":true}]
+9:["$","script","script-2",{"src":"/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js","async":true}]
+a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

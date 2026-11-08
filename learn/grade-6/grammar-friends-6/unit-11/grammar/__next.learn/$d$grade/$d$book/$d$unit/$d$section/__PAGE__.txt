@@ -1,0 +1,130 @@
+1:"$Sreact.fragment"
+2:I[92261,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"UnitPresence"]
+3:I[22016,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],""]
+4:I[5014,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"default"]
+5:I[80576,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"LessonSection"]
+b:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+6:T1c1f,## 1. Câu hỏi tường thuật có từ hỏi (Wh-questions)
+
+**Tiếng Anh:** When reporting questions that begin with question words **where, why, what, who** and **when**, we change the word order and use **asked** (not *said* or *told*).
+
+**Tiếng Việt:** Với câu hỏi có từ hỏi, dùng công thức **S + asked (+ O) + từ hỏi + S + V (lùi thì)**. Từ hỏi giữ nguyên: *what, where, when, why, how, who, which, how many, how much, how long…*
+
+**Ví dụ:**
+- *"Where does Carrie live?" she asked. → She asked him where Carrie lived.* — Cô ấy hỏi anh ấy Carrie sống ở đâu.
+- *"What time is it?" Linda asked Anna. → Linda asked Anna what time it was.* — Linda hỏi Anna mấy giờ rồi.
+- *"Why do giraffes have long necks?" Cathy asked. → Cathy asked why giraffes had long necks.* — Cathy hỏi tại sao hươu cao cổ có cổ dài.
+
+> **Lưu ý quan trọng:** luôn dùng *asked* (KHÔNG dùng *said/told* cho câu hỏi); giữ nguyên từ hỏi; bỏ dấu hỏi (?), thay bằng dấu chấm (.).
+
+## 2. Câu hỏi Yes/No tường thuật (if / whether)
+
+**Tiếng Anh:** When a question has no question word (a Yes/No question), report it with **asked** + **if / whether** + subject + verb.
+
+**Tiếng Việt:** Dùng công thức **S + asked (+ O) + if / whether + S + V (lùi thì)** cho câu hỏi KHÔNG có từ hỏi (câu hỏi trả lời Yes/No).
+
+**Ví dụ:**
+- *"Are you ready?" Eric asked me. → Eric asked me if I was ready.* — Eric hỏi tôi có sẵn sàng không.
+- *"Do you like pizza?" she asked. → She asked me whether I liked pizza.* — Cô ấy hỏi tôi có thích pizza không.
+- *"Can you swim?" Tom asked. → Tom asked me if I could swim.* — Tom hỏi tôi có biết bơi không.
+
+> **Mẹo nhớ:** câu hỏi gốc bắt đầu bằng *Do/Does/Did/Is/Are/Was/Were/Can/Will…* → dùng *if* hoặc *whether* (hai từ này thay nhau được).
+
+## 3. Thay đổi trật tự từ: câu hỏi → câu trần thuật
+
+**Tiếng Anh:** In a reported question, use statement word order (subject + verb), not question word order, and drop the auxiliary *do/does/did*.
+
+**Tiếng Việt:** Quy tắc vàng: trong câu hỏi tường thuật, dùng trật tự câu trần thuật **(S + V)**, KHÔNG dùng trật tự câu hỏi.
+
+> **So sánh:**
+> - *She asked where was the book.* (SAI — trật tự câu hỏi) → *She asked where the book was.* (ĐÚNG)
+> - *He asked what did I want.* (SAI — còn trợ động từ do/did) → *He asked what I wanted.* (ĐÚNG)
+> - *She asked if can I help.* (SAI) → *She asked if I could help.* (ĐÚNG)
+
+> **Lỗi thường gặp:** giữ nguyên trật tự câu hỏi → SAI; quên bỏ *do/does/did* → SAI. Nhớ: sau *if/whether/*từ hỏi → S + V (như câu kể).
+
+## 4. Đổi thì trong câu hỏi tường thuật (giống câu kể)
+
+**Tiếng Anh:** Remember to change the tense when reporting, exactly as in reported statements.
+
+**Tiếng Việt:** Quy tắc lùi thì giống hệt reported statements:
+
+| Trực tiếp | Tường thuật |
+|---|---|
+| am/is | was |
+| are | were |
+| do/does | (bỏ) + V-ed |
+| did | had + V3 |
+| have/has | had |
+| will | would |
+| can | could |
+| may | might |
+
+> **Đổi đại từ:** I → he/she | you → I/he/she/they | my → his/her | your → my/his/her | this → that | here → there | now → then | today → that day.
+
+## 5. Câu mệnh lệnh tường thuật: told + O + to V
+
+**Tiếng Anh:** When reporting a **command**, we use **told** + object + infinitive. (The infinitive = **to** + base form.)
+
+**Tiếng Việt:** Dùng công thức **S + told + O + to + V (nguyên mẫu)** cho câu ra lệnh, chỉ thị (KHÔNG có "please", giọng dứt khoát).
+
+**Ví dụ:**
+- *"Finish your dinner, Suzy," said Mum. → Mum told Suzy to finish her dinner.* — Mẹ bảo Suzy ăn hết bữa tối.
+- *"Sit down!" the teacher said. → The teacher told us to sit down.* — Giáo viên bảo chúng tôi ngồi xuống.
+- *"Clean your room," Dad said to me. → Dad told me to clean my room.* — Bố bảo tôi dọn phòng.
+
+> **Nhận biết command:** giọng dứt khoát, không có "please", không có "can you/could you". Ví dụ: *"Stop!", "Be quiet!", "Go home!", "Don't touch that!"*
+
+## 6. Câu yêu cầu tường thuật: asked + O + to V
+
+**Tiếng Anh:** When reporting a **request**, we use **asked** + object + infinitive.
+
+**Tiếng Việt:** Dùng công thức **S + asked + O + to + V (nguyên mẫu)** cho câu yêu cầu lịch sự (có "please", "Can you…?", "Could you…?", "Would you…?").
+
+**Ví dụ:**
+- *"Please close the window." → He asked me to close the window.* — Anh ấy nhờ tôi đóng cửa sổ.
+- *"Can you help me, please?" she said. → She asked me to help her.* — Cô ấy nhờ tôi giúp.
+- *"Could you pass the salt?" → He asked me to pass the salt.* — Anh ấy nhờ tôi đưa muối.
+
+> **Nhận biết request:** có "please", "Can you…?", "Could you…?", "Would you mind…?"; giọng lịch sự, nhã nhặn → dùng *asked*.
+
+## 7. Phủ định: told/asked + O + NOT to V
+
+**Tiếng Anh:** For a negative command or request, put **not** before the infinitive: **told/asked + object + not to + base form.**
+
+**Tiếng Việt:** Dùng công thức **S + told/asked + O + not to + V**.
+
+**Ví dụ:**
+- *"Don't run inside!" Mum said. → Mum told us not to run inside.* — Mẹ bảo chúng tôi không được chạy trong nhà.
+- *"Please don't be late." → She asked me not to be late.* — Cô ấy nhờ tôi đừng đến muộn.
+- *"Don't touch the oven!" → Dad told me not to touch the oven.* — Bố bảo tôi không được sờ vào lò.
+
+> **Chú ý:** *not* đứng TRƯỚC *to*: *told me not to go* (ĐÚNG), *told me to not go* (SAI).
+
+## 8. TOLD vs ASKED — Phân biệt mệnh lệnh và yêu cầu
+
+**Tiếng Việt:** Cùng cấu trúc *+ O + to V*, nhưng chọn **told** cho mệnh lệnh và **asked** cho yêu cầu lịch sự.
+
+| | TOLD (Mệnh lệnh) | ASKED (Yêu cầu) |
+|---|---|---|
+| Giọng | Dứt khoát, ra lệnh | Lịch sự, nhờ vả |
+| Dấu hiệu | Không có "please" | Có "please", "Can you…?" |
+| Ví dụ trực tiếp | *"Stop talking!"* | *"Please stop talking."* |
+| Tường thuật | *He told me to stop.* | *He asked me to stop.* |
+
+> **Mẹo:** thấy *please / Can you / Could you / Would you* → dùng *asked*; không thấy → dùng *told*.
+
+## 9. Lỗi thường gặp
+
+- ❌ *She asked where was he.* → ✅ *She asked where he was.* (giữ trật tự câu hỏi → SAI).
+- ❌ *He asked what did I want.* → ✅ *He asked what I wanted.* (quên bỏ *do/does/did*).
+- ❌ *He said me where I lived.* → ✅ *He asked me where I lived.* (dùng *said* cho câu hỏi → SAI).
+- ❌ *She asked I was ready.* → ✅ *She asked if I was ready.* (quên *if/whether* cho câu Yes/No).
+- ❌ *She told me to not go.* → ✅ *She told me not to go.* (đặt *not* sai vị trí).
+- ❌ *He told me where I lived.* → ✅ *He asked me where I lived.* (*told* chỉ dùng cho commands, KHÔNG dùng cho questions).0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-8","children":[["$","$L2",null,{"unitId":"unit-11"}],["$","nav",null,{"className":"mb-4 text-sm","children":["$","$L3",null,{"href":"/course/grade-6/grammar-friends-6/","className":"inline-flex items-center gap-1 text-muted-foreground transition-colors hover:text-primary","children":[["$","$L4",null,{"iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left size-4","aria-hidden":"true"}],"Quay lại khóa học"]}]}],["$","header",null,{"className":"mb-8","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-wide text-muted-foreground","children":"Unit 11: Journey to Space"}],["$","h1",null,{"className":"font-heading text-2xl font-extrabold text-foreground sm:text-3xl","children":"Ghi nhớ ngữ pháp"}]]}],["$","$L5",null,{"lesson":{"frontmatter":{"section":"grammar"},"body":"$6","audioSrcs":[],"vocabPreview":[],"vocabReviewOld":[],"hasDraftTranslation":false,"hasDraftExtra":false,"hasDraftTheory":false,"hasDraftPractice":false},"grade":"grade-6","book":"grammar-friends-6","section":"grammar","gameUnitId":"gf6-unit-11-journey-to-space","quizTitle":"Ghi nhớ ngữ pháp","theory":{"brief":"Reported questions: asked + O + wh-word/if/whether + S + V (lùi thì). Reported commands: told + O + (not) to V. Reported requests: asked + O + (not) to V.","rules":["Câu hỏi có từ hỏi: asked + O + wh-word + S + V (trật tự trần thuật, lùi thì)","Câu hỏi Yes/No: asked + O + if/whether + S + V (lùi thì)","Trật tự từ: đổi từ câu hỏi sang câu trần thuật (S + V), bỏ do/does/did","Lùi thì: is→was, are→were, do/does→V-ed, did→had V3, will→would, can→could","Mệnh lệnh: told + O + to V (không có please)","Yêu cầu: asked + O + to V (có please/can you/could you)","Phủ định: told/asked + O + not to V"]}}]]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gT-6PjrV4wQqpD_vfveUP"}
+7:["$","script","script-0",{"src":"/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","async":true}]
+8:["$","script","script-1",{"src":"/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","async":true}]
+9:["$","script","script-2",{"src":"/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js","async":true}]
+a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

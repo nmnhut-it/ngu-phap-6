@@ -1,0 +1,153 @@
+1:"$Sreact.fragment"
+2:I[22016,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],""]
+3:I[5014,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"default"]
+4:I[93260,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"SignOutButton"]
+5:I[39756,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"default"]
+6:I[37457,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"default"]
+f:I[68027,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"default",1]
+:HL["/ngu-phap-6/_next/static/chunks/31yp6fztlp79w.css","style"]
+:HL["/ngu-phap-6/_next/static/media/2bbe8d2671613f1f-s.p.0k62hbripvv8p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ngu-phap-6/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ngu-phap-6/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","learn","grade-6","grammar-friends-6","unit-10","grammar",""],"q":"","i":false,"f":[[["",{"children":["learn",{"children":[["grade","grade-6","d",null],{"children":[["book","grammar-friends-6","d",null],{"children":[["unit","unit-10","d",null],{"children":[["section","grammar","d",null],{"children":["__PAGE__",{}]}]}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ngu-phap-6/_next/static/chunks/31yp6fztlp79w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"inter_86113907-module__x2cDeq__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"flex min-h-full flex-col","children":[false,["$","header",null,{"className":"sticky top-0 z-40 border-b border-border bg-background/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex h-16 max-w-6xl items-center justify-between px-4","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2 font-bold text-foreground","children":[["$","span",null,{"className":"flex size-8 items-center justify-center rounded-lg bg-primary text-primary-foreground","children":["$","$L3",null,{"ref":"$undefined","iconNode":[["path",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z","key":"j76jl0"}],["path",{"d":"M22 10v6","key":"1lu8f3"}],["path",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5","key":"1r8lef"}]],"className":"lucide-graduation-cap size-5"}]}],["$","span",null,{"className":"text-lg","children":"Luyện Tiếng Anh"}]]}],["$","nav",null,{"className":"flex items-center gap-1 text-sm font-medium","children":[["$","$L2",null,{"href":"/","className":"rounded-full px-3 py-1.5 text-muted-foreground transition-colors hover:bg-primary-soft hover:text-primary","children":"Khóa học"}],["$","$L4",null,{}]]}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-auto border-t border-border py-8 text-center text-sm text-muted-foreground","children":[["$","p",null,{"children":["Giáo viên: ",["$","span",null,{"className":"font-medium text-foreground","children":"Nguyễn Minh Nhựt"}]]}],["$","p",null,{"className":"mt-1","children":"Nội dung biên soạn riêng cho lớp"}]]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L7","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,"$@d"]},null,false,"$@d"]},null,false,"$@d"]},null,false,"$@d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gT-6PjrV4wQqpD_vfveUP"}
+12:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"ViewportBoundary"]
+18:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"MetadataBoundary"]
+7:["$","$L6",null,{}]
+8:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L11",[["$","script","script-0",{"src":"/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+15:[]
+d:"$W15"
+e:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/ngu-phap-6/_next/static/chunks/31yp6fztlp79w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1a:I[92261,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"UnitPresence"]
+1b:I[80576,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"LessonSection"]
+1c:T1dc2,## 1. Reported speech: statements — Tường thuật câu kể
+
+**Tiếng Anh:** We use reported speech to tell people what someone has said. We often use the verbs **said** or **told** when reporting a statement. We usually change the tense of the main verb.
+
+**Tiếng Việt:** Câu tường thuật (gián tiếp) dùng để thuật lại lời nói của người khác mà không lặp lại chính xác từng từ. Khi động từ tường thuật ở quá khứ (said/told), ta thường **lùi thì** động từ chính.
+
+| Dạng | Cấu trúc |
+|---|---|
+| Với **said** | S + said + (that) + mệnh đề (đã lùi thì) |
+| Với **told** | S + told + tân ngữ chỉ người + (that) + mệnh đề (đã lùi thì) |
+
+**Ví dụ:**
+- *"I am tired," said Tom. → Tom said (that) he was tired.* — Tom nói rằng cậu ấy mệt.
+- *"We are ready," they said. → They said they were ready.* — Họ nói rằng họ đã sẵn sàng.
+- *"I love chocolate," said Emma. → Emma said she loved chocolate.* — Emma nói rằng cô ấy thích sô-cô-la.
+
+> **Dấu hiệu:** Từ **that** không bắt buộc — có thể dùng hoặc bỏ đều đúng.
+
+## 2. Tense backshift — Quy tắc lùi thì
+
+**Tiếng Anh:** We usually change the tense of the main verb. The present becomes past, and the past becomes past perfect.
+
+**Tiếng Việt:** Khi động từ tường thuật ở quá khứ (said/told), động từ chính trong câu trực tiếp phải **lùi về quá khứ một thì** theo bảng dưới đây.
+
+| Thì trực tiếp | Thì lùi (gián tiếp) | Ví dụ chuyển đổi |
+|---|---|---|
+| Present Simple (hiện tại đơn) | Past Simple (quá khứ đơn) | *"I want it"* → he **wanted** it |
+| Present Continuous (hiện tại tiếp diễn) | Past Continuous (quá khứ tiếp diễn) | *"It is raining"* → it **was raining** |
+| Past Simple (quá khứ đơn) | Past Perfect (quá khứ hoàn thành) | *"We went"* → they **had gone** |
+| Present Perfect (hiện tại hoàn thành) | Past Perfect (quá khứ hoàn thành) | *"I have finished"* → she **had finished** |
+| Will / Won't | Would / Wouldn't | *"I will call"* → he **would** call |
+| Can / Can't | Could / Couldn't | *"I can swim"* → he **could** swim |
+| Must | Had to | *"I must go"* → she **had to** go |
+
+**Ví dụ:**
+- *"I bought a new bike," said Sam. → Sam said he had bought a new bike.* — Sam nói rằng cậu ấy đã mua một chiếc xe đạp mới.
+- *"We will travel to France," he said. → He said they would travel to France.* — Cậu ấy nói rằng họ sẽ đi du lịch Pháp.
+
+> **Lưu ý:** Thì Quá khứ tiếp diễn (*was/were studying*) có thể lùi thành Quá khứ hoàn thành tiếp diễn (*had been studying*).
+
+## 3. Pronouns & time changes — Thay đổi đại từ & trạng từ
+
+**Tiếng Anh:** We sometimes make other changes, such as to pronouns, possessive adjectives and time words.
+
+**Tiếng Việt:** Cùng với lùi thì, ta bắt buộc phải đổi **đại từ nhân xưng, tính từ sở hữu** và các cụm từ **chỉ thời gian, nơi chốn** cho phù hợp ngữ cảnh mới.
+
+| Câu trực tiếp | Câu tường thuật |
+|---|---|
+| today (hôm nay) | that day (ngày hôm đó) |
+| tonight (tối nay) | that night (tối hôm đó) |
+| tomorrow (ngày mai) | the next day / the following day (ngày hôm sau) |
+| yesterday (hôm qua) | the day before / the previous day (ngày trước đó) |
+| now (bây giờ) | then (lúc đó) |
+| here (ở đây) | there (ở đó) |
+| this / these (này) | that / those (kia) |
+
+**Ví dụ:**
+- *"I am going to Italy this summer," Jack said. → Jack said he was going to Italy that summer.* — Jack nói rằng cậu ấy sẽ đi Ý vào mùa hè năm đó.
+- *"I drove to the airport yesterday," he said. → He said he had driven to the airport the day before.* — Cậu ấy nói cậu ấy đã lái xe ra sân bay ngày hôm trước.
+
+## 4. Say vs tell — Phân biệt said và told
+
+**Tiếng Anh:** **Told** is followed by a name or an object pronoun. We do not put an object after **said** (unless we use *said to someone*).
+
+**Tiếng Việt:** Cả **said** và **told** đều dùng để thuật lại lời nói, nhưng khác nhau ở tân ngữ phía sau.
+
+| Động từ | Cấu trúc |
+|---|---|
+| **SAID** | S + said + (that) + mệnh đề *(không có tân ngữ chỉ người ngay sau)* |
+| **TOLD** | S + told + tân ngữ (me/us/him/her…) + (that) + mệnh đề |
+
+**Ví dụ:**
+- *He said he would come.* — Cậu ấy nói cậu ấy sẽ đến.
+- *He told me he would come.* — Cậu ấy nói với tôi cậu ấy sẽ đến.
+
+> **So sánh:** *He said me…* (SAI) và *He told that…* (SAI). Sau **said** không đặt tân ngữ người; sau **told** bắt buộc có tân ngữ người.
+
+## 5. Reflexive pronouns — Đại từ phản thân
+
+**Tiếng Anh:** We use a reflexive pronoun after a verb when the subject and the object are the same.
+
+**Tiếng Việt:** Dùng đại từ phản thân khi **chủ ngữ và tân ngữ là cùng một đối tượng** (người thực hiện hành động cũng chính là người nhận hành động).
+
+| Đại từ nhân xưng | Đại từ phản thân |
+|---|---|
+| I | myself (chính tôi) |
+| you (số ít) | yourself (chính bạn) |
+| he | himself (chính cậu ấy) |
+| she | herself (chính cô ấy) |
+| it | itself (chính nó) |
+| we | ourselves (chính chúng ta) |
+| you (số nhiều) | yourselves (chính các bạn) |
+| they | themselves (chính họ) |
+
+**Ví dụ:**
+- *The cat cleaned itself.* — Con mèo tự liếm sạch chính nó.
+- *She's looking at herself in the mirror.* — Cô ấy đang tự nhìn mình trong gương.
+- *I cut myself with the knife while cooking.* — Tôi tự làm mình bị đứt tay khi đang nấu ăn.
+
+> **Mẹo nhớ:** Chủ ngữ **số ít** → đuôi **-self**; chủ ngữ **số nhiều** → đuôi **-selves**.
+
+## 6. Special uses — Tự tay làm & làm một mình với "by"
+
+**Tiếng Anh:** We use a reflexive pronoun to emphasize who did the action. We can use **by** before the reflexive pronoun to say that we did something without help.
+
+**Tiếng Việt:** Đại từ phản thân có hai công dụng nhấn mạnh quan trọng.
+
+1. **Nhấn mạnh việc tự tay làm** (không ai làm giúp):
+   - *I baked the cake myself.* — Tự tay tôi đã nướng chiếc bánh này.
+2. **Làm việc gì đó một mình** (không ai ở cùng) — dùng cấu trúc **by + đại từ phản thân**:
+   - *She walked to school by herself.* — Cô bé tự đi bộ đến trường một mình.
+   - *We built the treehouse by ourselves.* — Chúng tôi tự dựng ngôi nhà trên cây một mình.
+
+## 7. Lỗi thường gặp
+
+- ❌ *She said she is tired.* → ✅ *She said she was tired.* (quên lùi thì trong câu tường thuật).
+- ❌ *He said me he would come.* → ✅ *He told me he would come.* (sau *said* không đặt tân ngữ người).
+- ❌ *She told that she was hungry.* → ✅ *She said that she was hungry.* (sau *told* phải có tân ngữ người).
+- ❌ *They said they will arrive tomorrow.* → ✅ *They said they would arrive the next day.* (đổi trạng ngữ chỉ thời gian).
+- ❌ *We made the cake ourself.* → ✅ *We made the cake ourselves.* (số nhiều dùng đuôi *-selves*).
+- ❌ *he → hisself* / *they → theirselves* → ✅ *himself* / *themselves* (*hisself*, *theirselves* không tồn tại).11:["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-8","children":[["$","$L1a",null,{"unitId":"unit-10"}],["$","nav",null,{"className":"mb-4 text-sm","children":["$","$L2",null,{"href":"/course/grade-6/grammar-friends-6/","className":"inline-flex items-center gap-1 text-muted-foreground transition-colors hover:text-primary","children":[["$","$L3",null,{"ref":"$undefined","iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left size-4","aria-hidden":"true"}],"Quay lại khóa học"]}]}],["$","header",null,{"className":"mb-8","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-wide text-muted-foreground","children":"Unit 10: Travel"}],["$","h1",null,{"className":"font-heading text-2xl font-extrabold text-foreground sm:text-3xl","children":"Ghi nhớ ngữ pháp"}]]}],["$","$L1b",null,{"lesson":{"frontmatter":{"section":"grammar"},"body":"$1c","viBody":"$undefined","questions":"$undefined","extra":"$undefined","theoryNotes":"$undefined","practice":"$undefined","audioSrcs":[],"vocabPreview":[],"vocabReviewOld":[],"hasDraftTranslation":false,"hasDraftExtra":false,"hasDraftTheory":false,"hasDraftPractice":false},"grade":"grade-6","book":"grammar-friends-6","section":"grammar","gameUnitId":"gf6-unit-10-travel","quizTitle":"Ghi nhớ ngữ pháp","theory":{"brief":"Reported speech dùng để thuật lại lời người khác đã nói. Khi chuyển từ câu trực tiếp sang gián tiếp, ta thường lùi thì động từ: present simple -> past simple, present continuous -> past continuous, past simple -> past perfect, will -> would, can -> could. Đại từ phản thân (reflexive pronouns) dùng để nhấn mạnh chủ ngữ tự làm hành động: myself, yourself, himself, herself, itself, ourselves, yourselves, themselves.","examples":["'I'm hungry,' said Julia. -> Julia said she was hungry.","'They went to town,' I said. -> I said they had gone to town.","I baked the cake myself. (No one else did.)","She walked to school by herself. (Alone, without help.)"]}}]]}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#059669"}]]
+1d:I[27201,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"IconMark"]
+14:null
+19:[["$","title","0",{"children":"Ghi nhớ ngữ pháp | Luyện Tiếng Anh"}],["$","meta","1",{"name":"description","content":"Học tiếng Anh qua trò chơi: ngữ pháp, từ vựng và luyện tập theo lớp và sách giáo khoa."}],["$","link","2",{"rel":"icon","href":"/ngu-phap-6/icons/icon-192.png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/ngu-phap-6/icons/apple-touch-icon.png"}],["$","$L1d","4",{}]]

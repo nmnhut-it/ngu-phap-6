@@ -1,0 +1,136 @@
+1:"$Sreact.fragment"
+2:I[22016,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],""]
+3:I[5014,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"default"]
+4:I[93260,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"SignOutButton"]
+5:I[39756,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"default"]
+6:I[37457,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"default"]
+f:I[68027,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"default",1]
+:HL["/ngu-phap-6/_next/static/chunks/31yp6fztlp79w.css","style"]
+:HL["/ngu-phap-6/_next/static/media/2bbe8d2671613f1f-s.p.0k62hbripvv8p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ngu-phap-6/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ngu-phap-6/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","learn","grade-6","grammar-friends-6","unit-3","grammar",""],"q":"","i":false,"f":[[["",{"children":["learn",{"children":[["grade","grade-6","d",null],{"children":[["book","grammar-friends-6","d",null],{"children":[["unit","unit-3","d",null],{"children":[["section","grammar","d",null],{"children":["__PAGE__",{}]}]}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ngu-phap-6/_next/static/chunks/31yp6fztlp79w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"inter_86113907-module__x2cDeq__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"flex min-h-full flex-col","children":[false,["$","header",null,{"className":"sticky top-0 z-40 border-b border-border bg-background/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex h-16 max-w-6xl items-center justify-between px-4","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2 font-bold text-foreground","children":[["$","span",null,{"className":"flex size-8 items-center justify-center rounded-lg bg-primary text-primary-foreground","children":["$","$L3",null,{"ref":"$undefined","iconNode":[["path",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z","key":"j76jl0"}],["path",{"d":"M22 10v6","key":"1lu8f3"}],["path",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5","key":"1r8lef"}]],"className":"lucide-graduation-cap size-5"}]}],["$","span",null,{"className":"text-lg","children":"Luyện Tiếng Anh"}]]}],["$","nav",null,{"className":"flex items-center gap-1 text-sm font-medium","children":[["$","$L2",null,{"href":"/","className":"rounded-full px-3 py-1.5 text-muted-foreground transition-colors hover:bg-primary-soft hover:text-primary","children":"Khóa học"}],["$","$L4",null,{}]]}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-auto border-t border-border py-8 text-center text-sm text-muted-foreground","children":[["$","p",null,{"children":["Giáo viên: ",["$","span",null,{"className":"font-medium text-foreground","children":"Nguyễn Minh Nhựt"}]]}],["$","p",null,{"className":"mt-1","children":"Nội dung biên soạn riêng cho lớp"}]]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L7","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,"$@d"]},null,false,"$@d"]},null,false,"$@d"]},null,false,"$@d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gT-6PjrV4wQqpD_vfveUP"}
+12:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"ViewportBoundary"]
+18:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"MetadataBoundary"]
+7:["$","$L6",null,{}]
+8:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L11",[["$","script","script-0",{"src":"/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+15:[]
+d:"$W15"
+e:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/ngu-phap-6/_next/static/chunks/31yp6fztlp79w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1a:I[92261,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"UnitPresence"]
+1b:I[80576,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"LessonSection"]
+1c:T192b,## 1. Thì hiện tại hoàn thành (Present perfect) — Cấu trúc
+
+**Tiếng Anh:** The present perfect is formed with **have / has + past participle (V3)**.
+
+**Tiếng Việt:** Thì hiện tại hoàn thành dùng công thức **S + have/has + V3 (quá khứ phân từ)**.
+
+| Ngôi | Trợ động từ |
+|---|---|
+| I / You / We / They | have + V3 |
+| He / She / It | has + V3 |
+
+| Dạng | Cấu trúc |
+|---|---|
+| Khẳng định | S + have/has + V3 |
+| Phủ định | S + haven't/hasn't + V3 |
+| Nghi vấn | Have/Has + S + V3? |
+
+**Ví dụ:**
+- *I have visited Paris.* — Tôi đã thăm Paris.
+- *She has finished her homework.* — Cô ấy đã hoàn thành bài tập.
+- *I haven't seen that film.* — Tôi chưa xem phim đó.
+- *He hasn't arrived yet.* — Anh ấy chưa đến.
+- *Have you eaten lunch?* — Bạn đã ăn trưa chưa?
+- *Has she called you?* — Cô ấy đã gọi cho bạn chưa?
+
+## 2. Since và For — Mốc thời gian vs khoảng thời gian
+
+**Tiếng Anh:** We use **since** + a point in time, such as a day, date or time. We use **for** + a period of time. Phrases with *for* and *since* go at the end of a sentence.
+
+**Tiếng Việt:** Dùng **since** + mốc thời gian (điểm bắt đầu); dùng **for** + khoảng thời gian (kéo dài bao lâu). Cụm với *for* và *since* đứng ở cuối câu.
+
+| Từ | Đi với | Ví dụ |
+|---|---|---|
+| since | Mốc thời gian | since 2020, since January, since Monday |
+| for | Khoảng thời gian | for 5 years, for 2 hours, for ages |
+
+**Ví dụ:**
+- *I've lived here since 2015.* — Tôi đã sống ở đây từ năm 2015.
+- *She's been ill since Monday.* — Cô ấy bị ốm từ thứ Hai.
+- *We've known each other since childhood.* — Chúng tôi biết nhau từ nhỏ.
+- *I've lived here for ten years.* — Tôi đã sống ở đây được mười năm.
+- *She's been ill for three days.* — Cô ấy bị ốm được ba ngày.
+- *We've been friends for a long time.* — Chúng tôi là bạn đã lâu.
+
+> **Mẹo nhớ:** SINCE = **S**tarting point (điểm bắt đầu); FOR = **F**or how long (kéo dài bao lâu).
+
+## 3. Already và Just — Đã rồi & vừa mới
+
+**Tiếng Anh:** We use **already** to talk about something that has happened before we expected it to. We use **just** to talk about something that has happened very recently. We put **already** and **just** before the main verb.
+
+**Tiếng Việt:** **already** = "đã... rồi" (xảy ra sớm hơn mong đợi); **just** = "vừa mới" (xảy ra rất gần đây). Đặt **giữa** have/has và V3.
+
+**Cấu trúc:** S + have/has + already/just + V3
+
+**Ví dụ:**
+- *I've already eaten.* — Tôi đã ăn rồi.
+- *She's already left.* — Cô ấy đã đi rồi.
+- *They've already finished the project.* — Họ đã hoàn thành dự án rồi.
+- *I've just arrived.* — Tôi vừa mới đến.
+- *He's just called me.* — Anh ấy vừa gọi cho tôi.
+- *We've just heard the news.* — Chúng tôi vừa nghe tin.
+
+## 4. Yet và Before — Chưa & trước đây
+
+**Tiếng Anh:** We use **yet** in questions and negatives to ask if something that we're waiting for has happened. We use **before** to talk about any time in the past up to now. We put **yet** and **before** at the end of a sentence.
+
+**Tiếng Việt:** **yet** = "chưa" (dùng trong câu hỏi và câu phủ định); **before** = "trước đây" (bất kỳ lúc nào trong quá khứ cho đến hiện tại). Cả hai đặt ở **cuối câu**.
+
+**Ví dụ:**
+- *Have you finished yet?* — Bạn đã hoàn thành chưa?
+- *I haven't done it yet.* — Tôi chưa làm xong.
+- *Has the film started yet?* — Phim đã bắt đầu chưa?
+- *I've never been to Japan before.* — Tôi chưa bao giờ đến Nhật trước đây.
+- *Have you met him before?* — Bạn đã gặp anh ấy trước đây chưa?
+- *She's seen this film before.* — Cô ấy đã xem phim này trước đây.
+
+> **Lưu ý:** *already* dùng trong câu khẳng định, còn *yet* dùng trong câu hỏi và phủ định — *I've already finished.* / *I haven't finished yet.*
+
+## 5. Past simple vs Present perfect — Quá khứ đơn vs hiện tại hoàn thành
+
+**Tiếng Anh:** We use the past simple to talk about something that started and ended in the past, usually with a time expression (*yesterday*, *last*, *ago*). We use the present perfect to talk about something that happened in the past but which is still important now, and we often don't say when the action happened.
+
+**Tiếng Việt:** Quá khứ đơn nói về việc **đã kết thúc** trong quá khứ, thường có thời gian xác định. Hiện tại hoàn thành nói về việc xảy ra trong quá khứ nhưng **còn liên quan đến hiện tại**, thường không nói rõ thời điểm.
+
+| Thì | Khi nào dùng | Dấu hiệu | Ví dụ |
+|---|---|---|---|
+| Past simple | Hành động đã kết thúc trong quá khứ | yesterday, last week, ago, in 2020 | *I bought shoes yesterday.* |
+| Present perfect | Quá khứ nhưng còn liên quan hiện tại | since, for, already, just, yet, ever, never, before | *I've borrowed your pen.* |
+
+**Ví dụ:**
+- *I bought some new shoes yesterday.* — Tôi đã mua giày mới hôm qua.
+- *She went to London last year.* — Cô ấy đã đi London năm ngoái.
+- *I've borrowed your pen.* — Tôi đã mượn bút của bạn (vẫn đang giữ).
+- *She's visited London three times.* — Cô ấy đã thăm London ba lần (cho đến nay).
+
+> **Mẹo phân biệt:** có *yesterday, ago, last* → past simple; có *since, for, already, just, yet, ever, never* → present perfect; không nói thời điểm cụ thể mà còn liên quan hiện tại → present perfect.
+
+## 6. Lỗi thường gặp
+
+- ❌ *I've known her since five years.* → ✅ *I've known her for five years.* (for + khoảng thời gian).
+- ❌ *I lived here since 2010.* → ✅ *I have lived here since 2010.* (dùng present perfect với since/for).
+- ❌ *I have finished already my homework.* → ✅ *I have already finished my homework.* (already đứng trước V3).
+- ❌ *I have finished yet.* → ✅ *I have already finished.* / *I haven't finished yet.* (yet không dùng trong câu khẳng định).
+- ❌ *I have goed to school.* → ✅ *I have gone to school.* (dùng đúng quá khứ phân từ V3).11:["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-8","children":[["$","$L1a",null,{"unitId":"unit-3"}],["$","nav",null,{"className":"mb-4 text-sm","children":["$","$L2",null,{"href":"/course/grade-6/grammar-friends-6/","className":"inline-flex items-center gap-1 text-muted-foreground transition-colors hover:text-primary","children":[["$","$L3",null,{"ref":"$undefined","iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left size-4","aria-hidden":"true"}],"Quay lại khóa học"]}]}],["$","header",null,{"className":"mb-8","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-wide text-muted-foreground","children":"Unit 3: A Celebration"}],["$","h1",null,{"className":"font-heading text-2xl font-extrabold text-foreground sm:text-3xl","children":"Ghi nhớ ngữ pháp"}]]}],["$","$L1b",null,{"lesson":{"frontmatter":{"section":"grammar"},"body":"$1c","viBody":"$undefined","questions":"$undefined","extra":"$undefined","theoryNotes":"$undefined","practice":"$undefined","audioSrcs":[],"vocabPreview":[],"vocabReviewOld":[],"hasDraftTranslation":false,"hasDraftExtra":false,"hasDraftTheory":false,"hasDraftPractice":false},"grade":"grade-6","book":"grammar-friends-6","section":"grammar","gameUnitId":"gf6-unit-3-a-celebration","quizTitle":"Ghi nhớ ngữ pháp","theory":{"brief":"Thì hiện tại hoàn thành dùng với since (mốc thời gian), for (khoảng thời gian), already/just (trước động từ chính), yet/before (cuối câu). Phân biệt: quá khứ đơn cho hành động đã kết thúc trong quá khứ, hiện tại hoàn thành cho hành động còn liên quan đến hiện tại.","examples":["I've been at this school for two years.","I've been at this school since 2008.","They've already finished their lunch.","I've just seen him.","Have you tried any of the food yet?","I've never been to an art gallery before.","I bought some new shoes at the market. (past simple - finished action)","I've borrowed your pen. (present perfect - still important now)"]}}]]}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#059669"}]]
+1d:I[27201,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"IconMark"]
+14:null
+19:[["$","title","0",{"children":"Ghi nhớ ngữ pháp | Luyện Tiếng Anh"}],["$","meta","1",{"name":"description","content":"Học tiếng Anh qua trò chơi: ngữ pháp, từ vựng và luyện tập theo lớp và sách giáo khoa."}],["$","link","2",{"rel":"icon","href":"/ngu-phap-6/icons/icon-192.png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/ngu-phap-6/icons/apple-touch-icon.png"}],["$","$L1d","4",{}]]

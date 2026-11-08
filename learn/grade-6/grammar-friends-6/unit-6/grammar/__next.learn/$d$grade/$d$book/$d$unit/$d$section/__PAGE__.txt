@@ -1,0 +1,103 @@
+1:"$Sreact.fragment"
+2:I[92261,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"UnitPresence"]
+3:I[22016,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],""]
+4:I[5014,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"default"]
+5:I[80576,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"LessonSection"]
+b:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+c:"$Sreact.suspense"
+6:T17c3,## 1. Câu bị động thì tương lai đơn (Future Simple Passive)
+
+**Tiếng Anh:** We can use the passive in the future. We form the future passive affirmative and negative with **will/won't + be + past participle**.
+
+**Tiếng Việt:** Dùng bị động thì tương lai để nói về việc **sẽ được** ai đó/cái gì đó thực hiện trong tương lai. Mọi chủ ngữ (số ít hay số nhiều) đều dùng chung **will be / won't be + V3/V-ed**.
+
+| Dạng | Cấu trúc |
+|---|---|
+| Khẳng định | S + will be + V3/V-ed |
+| Phủ định | S + won't be + V3/V-ed (won't be = will not be) |
+
+**Ví dụ:**
+- *The project will be finished tomorrow.* — Dự án sẽ được hoàn thành vào ngày mai.
+- *The class will be introduced to the manager.* — Cả lớp sẽ được giới thiệu với người quản lý.
+- *The swimming pool won't be cleaned in winter.* — Hồ bơi sẽ không được dọn dẹp vào mùa đông.
+- *The pupils won't be asked any difficult questions.* — Các học sinh sẽ không bị hỏi câu hỏi khó nào.
+
+> **Mẹo nhỏ từ thầy:** Trong bị động tương lai đơn, không cần lo chủ ngữ số ít hay số nhiều — tất cả đều dùng chung **will be / won't be + V3/V-ed**.
+
+## 2. Câu hỏi ở câu bị động thì tương lai đơn (Future Simple Passive Questions)
+
+**Tiếng Anh:** We make future passive questions with **will + object + be + past participle**.
+
+**Tiếng Việt:** Muốn hỏi một hành động có được thực hiện trong tương lai hay không, ta đảo **Will** lên đầu câu.
+
+| Dạng | Cấu trúc |
+|---|---|
+| Nghi vấn | Will + S + be + V3/V-ed? |
+
+**Ví dụ:**
+- *Will we be given a prize if we win?* — Chúng ta có được trao giải nếu chiến thắng không? (Yes, we will. / No, we won't.)
+- *Will the decorations be taken down after the holiday?* — Các món đồ trang trí có được gỡ xuống sau kỳ nghỉ không? (Yes, they will. / No, they won't.)
+
+## 3. Câu bị động thì hiện tại hoàn thành (Present Perfect Passive)
+
+**Tiếng Anh:** We can also use the passive with the present perfect tense. We make the present perfect passive from the object + **have/has (+ not) + been + past participle**.
+
+**Tiếng Việt:** Bị động thì hiện tại hoàn thành nhấn mạnh **kết quả** của hành động vừa xảy ra / đã hoàn thành tính đến hiện tại. Phải chú ý chủ ngữ để chọn trợ động từ.
+
+| Dạng | Cấu trúc |
+|---|---|
+| Khẳng định | S + have/has been + V3/V-ed |
+| Phủ định | S + haven't/hasn't been + V3/V-ed |
+
+**Ví dụ:**
+- *The milk has been taken from the fridge.* — Sữa đã được lấy ra khỏi tủ lạnh ("the milk" không đếm được → *has been*).
+- *The apples have been stolen.* — Những quả táo đã bị ăn trộm ("the apples" số nhiều → *have been*).
+- *The door hasn't been painted yet.* — Cửa vẫn chưa được sơn ("the door" số ít → *hasn't*).
+- *The bandages haven't been picked up.* — Các cuộn băng gạc vẫn chưa được nhặt lên ("the bandages" số nhiều → *haven't*).
+
+> **So sánh:** chủ ngữ số ít (he, she, it, danh từ số ít/không đếm được) → *has been*; chủ ngữ số nhiều (I, you, we, they, danh từ số nhiều) → *have been*.
+
+## 4. Câu hỏi ở câu bị động thì hiện tại hoàn thành (Present Perfect Passive Questions)
+
+**Tiếng Anh:** We make present perfect passive questions from **have/has + object + been + past participle**.
+
+**Tiếng Việt:** Để hỏi một việc đã hoàn thành hay chưa ở câu bị động, ta đảo **Have/Has** lên trước chủ ngữ.
+
+| Dạng | Cấu trúc |
+|---|---|
+| Nghi vấn | Have/Has + S + been + V3/V-ed? |
+
+**Ví dụ:**
+- *Has everything been done?* — Mọi thứ đã được làm xong chưa? (Yes, it has. / No, it hasn't.)
+- *Have the windows been cleaned?* — Cửa sổ đã được lau dọn chưa? (Yes, they have. / No, they haven't.)
+
+## 5. Các bước chuyển đổi từ câu chủ động sang bị động
+
+**Tiếng Việt:** Để không bị nhầm lẫn khi viết lại câu, thầy khuyên các em làm theo 4 bước sau:
+
+1. **Bước 1:** Xác định Tân ngữ (O) trong câu chủ động và đưa lên làm Chủ ngữ mới (S) cho câu bị động.
+2. **Bước 2:** Xác định Thì của câu chủ động để chọn cấu trúc bị động tương ứng (Tương lai: *will be* / Hiện tại hoàn thành: *have/has been*).
+3. **Bước 3:** Chuyển động từ chính về dạng Quá khứ phân từ (V3/V-ed – Past Participle).
+4. **Bước 4:** Đưa Chủ ngữ cũ xuống cuối câu làm Tân ngữ đứng sau giới từ *by* (nếu cần thiết).
+
+## 6. Bảng so sánh nhanh
+
+| Thì (Tense) | Cấu trúc bị động | Ví dụ minh họa |
+|---|---|---|
+| Present Simple (Hiện tại đơn) | am / is / are + V3/V-ed | *The car is washed every week.* |
+| Past Simple (Quá khứ đơn) | was / were + V3/V-ed | *The letter was sent yesterday.* |
+| Future Simple (Tương lai đơn) | will be + V3/V-ed | *The project will be finished soon.* |
+| Present Perfect (Hiện tại hoàn thành) | have / has been + V3/V-ed | *The milk has been taken.* |
+
+## 7. Lỗi thường gặp
+
+- ❌ *The letter will sent tomorrow.* → ✅ *The letter will be sent tomorrow.* (sau *will* bắt buộc phải có *be* rồi mới tới V3).
+- ❌ *The door has painted.* → ✅ *The door has been painted.* (đừng quên *been* trong bị động hiện tại hoàn thành).
+- ❌ *The windows has been cleaned.* → ✅ *The windows have been cleaned.* (*windows* số nhiều → *have*).
+- ❌ *The book will be writing.* / *The book will be write.* → ✅ *The book will be written.* (dùng V3, không dùng V-ing hay nguyên mẫu).
+- ❌ *Will the cake be baked be?* / *Will be the cake baked?* → ✅ *Will the cake be baked?* (cấu trúc: Will + S + be + V3?).0:{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-8","children":[["$","$L2",null,{"unitId":"unit-6"}],["$","nav",null,{"className":"mb-4 text-sm","children":["$","$L3",null,{"href":"/course/grade-6/grammar-friends-6/","className":"inline-flex items-center gap-1 text-muted-foreground transition-colors hover:text-primary","children":[["$","$L4",null,{"iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left size-4","aria-hidden":"true"}],"Quay lại khóa học"]}]}],["$","header",null,{"className":"mb-8","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-wide text-muted-foreground","children":"Unit 6: Good Ideas"}],["$","h1",null,{"className":"font-heading text-2xl font-extrabold text-foreground sm:text-3xl","children":"Ghi nhớ ngữ pháp"}]]}],["$","$L5",null,{"lesson":{"frontmatter":{"section":"grammar"},"body":"$6","audioSrcs":[],"vocabPreview":[],"vocabReviewOld":[],"hasDraftTranslation":false,"hasDraftExtra":false,"hasDraftTheory":false,"hasDraftPractice":false},"grade":"grade-6","book":"grammar-friends-6","section":"grammar","gameUnitId":"gf6-unit-6-good-ideas","quizTitle":"Ghi nhớ ngữ pháp","theory":{"brief":"Câu bị động thì tương lai: will/won't + be + V3. Câu bị động thì hiện tại hoàn thành: have/has (not) + been + V3. Câu hỏi: Will + S + be + V3? / Have/Has + S + been + V3?","rules":["Future passive khẳng định: S + will be + V3","Future passive phủ định: S + won't be + V3","Future passive câu hỏi: Will + S + be + V3?","Present perfect passive khẳng định: S + have/has been + V3","Present perfect passive phủ định: S + haven't/hasn't been + V3","Present perfect passive câu hỏi: Have/Has + S + been + V3?"]}}]]}],["$L7","$L8","$L9"],"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gT-6PjrV4wQqpD_vfveUP"}
+7:["$","script","script-0",{"src":"/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","async":true}]
+8:["$","script","script-1",{"src":"/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","async":true}]
+9:["$","script","script-2",{"src":"/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js","async":true}]
+a:["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]
+d:null

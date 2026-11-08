@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Kiểm tra camera</title>
+<style>
+  body { font-family: system-ui, sans-serif; background: #111; color: #eee; margin: 0; padding: 16px; }
+  h1 { font-size: 1.1rem; }
+  video { width: 100%; max-width: 480px; background: #000; border-radius: 8px; display: block; margin: 12px 0; }
+  #status { white-space: pre-wrap; font-size: 1rem; line-height: 1.6; padding: 12px; border-radius: 8px; background: #222; }
+  .ok { color: #7CFFB2; }
+  .bad { color: #FF7C7C; }
+  button { font-size: 1rem; padding: 10px 16px; border-radius: 8px; border: none; background: #4a9; color: #fff; margin-top: 12px; }
+</style>
+</head>
+<body>
+<h1>Kiểm tra camera — trang chẩn đoán riêng, không liên quan bài học</h1>
+<div id="status">Đang kiểm tra...</div>
+<video id="v" playsinline muted autoplay></video>
+<button id="retry">Thử lại</button>
+
+<script>
+const statusEl = document.getElementById("status");
+const video = document.getElementById("v");
+const lines = [];
+
+function log(text, cls) {
+  lines.push(cls ? `<span class="${cls}">${text}</span>` : text);
+  statusEl.innerHTML = lines.join("\n");
+}
+
+async function run() {
+  lines.length = 0;
+  log("URL: " + location.href);
+  log("Secure context (bắt buộc để dùng camera trên web): " + window.isSecureContext, window.isSecureContext ? "ok" : "bad");
+  log("navigator.mediaDevices tồn tại: " + (!!navigator.mediaDevices), navigator.mediaDevices ? "ok" : "bad");
+
+  if (navigator.permissions && navigator.permissions.query) {
+    try {
+      const perm = await navigator.permissions.query({ name: "camera" });
+      log("Trạng thái quyền camera hiện tại: " + perm.state);
+    } catch (e) {
+      log("Không đọc được trạng thái quyền (bình thường trên một số trình duyệt): " + e.message);
+    }
+  }
+
+  if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) {
+    log("❌ Trình duyệt này không hỗ trợ getUserMedia trên origin hiện tại.", "bad");
+    return;
+  }
+
+  log("Đang gọi getUserMedia (nếu có hộp thoại xin quyền hiện lên, hãy bấm Cho phép/Allow)...");
+  try {
+    const stream = await navigator.mediaDevices.getUserMedia({ video: { facingMode: "user" } });
+    video.srcObject = stream;
+    await video.play().catch(() => {});
+    log("✅ ĐÃ lấy được luồng camera — nếu bạn thấy hình bên dưới, camera hoạt động bình thường.", "ok");
+  } catch (err) {
+    log("❌ getUserMedia thất bại — tên lỗi: " + err.name + " — chi tiết: " + err.message, "bad");
+  }
+}
+
+document.getElementById("retry").addEventListener("click", run);
+run();
+</script>
+</body>
+</html>

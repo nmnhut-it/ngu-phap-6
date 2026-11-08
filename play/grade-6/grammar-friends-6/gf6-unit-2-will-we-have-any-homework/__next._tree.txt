@@ -1,0 +1,5 @@
+:HL["/ngu-phap-6/_next/static/chunks/31yp6fztlp79w.css","style"]
+:HL["/ngu-phap-6/_next/static/media/2bbe8d2671613f1f-s.p.0k62hbripvv8p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ngu-phap-6/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ngu-phap-6/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"play","param":null,"prefetchHints":0,"slots":{"children":{"name":"unit","param":{"type":"c","key":"grade-6/grammar-friends-6/gf6-unit-2-will-we-have-any-homework","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"gT-6PjrV4wQqpD_vfveUP"}

@@ -1,0 +1,146 @@
+1:"$Sreact.fragment"
+2:I[22016,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],""]
+3:I[5014,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"default"]
+4:I[93260,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"SignOutButton"]
+5:I[39756,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"default"]
+6:I[37457,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"default"]
+f:I[68027,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"default",1]
+:HL["/ngu-phap-6/_next/static/chunks/31yp6fztlp79w.css","style"]
+:HL["/ngu-phap-6/_next/static/media/2bbe8d2671613f1f-s.p.0k62hbripvv8p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ngu-phap-6/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ngu-phap-6/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"c":["","learn","grade-6","grammar-friends-6","unit-9","grammar",""],"q":"","i":false,"f":[[["",{"children":["learn",{"children":[["grade","grade-6","d",null],{"children":[["book","grammar-friends-6","d",null],{"children":[["unit","unit-9","d",null],{"children":[["section","grammar","d",null],{"children":["__PAGE__",{}]}]}]}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/ngu-phap-6/_next/static/chunks/31yp6fztlp79w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","async":true,"nonce":"$undefined"}],["$","script","script-5",{"src":"/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"vi","className":"inter_86113907-module__x2cDeq__variable geist_mono_8d43a2aa-module__8Li5zG__variable h-full antialiased","children":["$","body",null,{"className":"flex min-h-full flex-col","children":[false,["$","header",null,{"className":"sticky top-0 z-40 border-b border-border bg-background/90 backdrop-blur","children":["$","div",null,{"className":"mx-auto flex h-16 max-w-6xl items-center justify-between px-4","children":[["$","$L2",null,{"href":"/","className":"flex items-center gap-2 font-bold text-foreground","children":[["$","span",null,{"className":"flex size-8 items-center justify-center rounded-lg bg-primary text-primary-foreground","children":["$","$L3",null,{"ref":"$undefined","iconNode":[["path",{"d":"M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z","key":"j76jl0"}],["path",{"d":"M22 10v6","key":"1lu8f3"}],["path",{"d":"M6 12.5V16a6 3 0 0 0 12 0v-3.5","key":"1r8lef"}]],"className":"lucide-graduation-cap size-5"}]}],["$","span",null,{"className":"text-lg","children":"Luyện Tiếng Anh"}]]}],["$","nav",null,{"className":"flex items-center gap-1 text-sm font-medium","children":[["$","$L2",null,{"href":"/","className":"rounded-full px-3 py-1.5 text-muted-foreground transition-colors hover:bg-primary-soft hover:text-primary","children":"Khóa học"}],["$","$L4",null,{}]]}]]}]}],["$","main",null,{"className":"flex-1","children":["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-auto border-t border-border py-8 text-center text-sm text-muted-foreground","children":[["$","p",null,{"children":["Giáo viên: ",["$","span",null,{"className":"font-medium text-foreground","children":"Nguyễn Minh Nhựt"}]]}],["$","p",null,{"className":"mt-1","children":"Nội dung biên soạn riêng cho lớp"}]]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L7","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L8",{"children":["$L9",{"children":["$La",{"children":["$Lb",{"children":["$Lc",{},null,false,null]},null,false,"$@d"]},null,false,"$@d"]},null,false,"$@d"]},null,false,"$@d"]},null,false,"$@d"]},null,false,null],"$Le",false]],"m":"$undefined","G":["$f",["$L10"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"gT-6PjrV4wQqpD_vfveUP"}
+12:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"OutletBoundary"]
+13:"$Sreact.suspense"
+16:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"ViewportBoundary"]
+18:I[97367,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"MetadataBoundary"]
+7:["$","$L6",null,{}]
+8:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+9:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+a:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+b:["$","$1","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":["$L11",[["$","script","script-0",{"src":"/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js","async":true,"nonce":"$undefined"}]],["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}]
+15:[]
+d:"$W15"
+e:["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","div",null,{"hidden":true,"children":["$","$L18",null,{"children":["$","$13",null,{"name":"Next.Metadata","children":"$L19"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+10:["$","link","0",{"rel":"stylesheet","href":"/ngu-phap-6/_next/static/chunks/31yp6fztlp79w.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+1a:I[92261,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"UnitPresence"]
+1b:I[80576,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js","/ngu-phap-6/_next/static/chunks/003cg495w9gu1.js","/ngu-phap-6/_next/static/chunks/3dfgsm2xgj0mz.js","/ngu-phap-6/_next/static/chunks/3cq47x9rd_tny.js"],"LessonSection"]
+1c:T1ceb,## 1. Câu điều kiện loại 3 — Cấu trúc
+
+**Tiếng Anh:** We use the third conditional to talk about an imagined situation in the past. We imagine that a situation happened in a different way. We make the third conditional with an **if-clause** and a **would/wouldn't have-clause**.
+
+**Tiếng Việt:** Dùng **câu điều kiện loại 3** để nói về một tình huống tưởng tượng trong quá khứ — điều đã xảy ra theo một cách khác.
+
+| Mệnh đề if | Mệnh đề kết quả |
+|---|---|
+| if + S + had + past participle (V3) | S + would/wouldn't have + past participle (V3) |
+| *If you'd arrived earlier,* | *you'd have met Joe.* |
+
+**Ví dụ:**
+- *If it had rained, we would have taken the bus.* — Nếu trời đã mưa, chúng tôi đã đi xe buýt (thực tế trời không mưa).
+- *If you had arrived earlier, you would have met Joe.* — Nếu bạn đã đến sớm hơn, bạn đã gặp Joe.
+
+> **Dấu hiệu:** Viết tắt **'d** có thể là **had** (mệnh đề if) hoặc **would** (mệnh đề kết quả) — *If you'd arrived* = *If you had arrived*; *We'd have taken* = *We would have taken*.
+
+## 2. Khi nào dùng — Tình huống tưởng tượng trong quá khứ
+
+**Tiếng Việt:** Dùng để nói về điều đã **KHÔNG** xảy ra trong quá khứ và tưởng tượng kết quả nếu nó đã xảy ra.
+
+**Ví dụ:**
+- Thực tế: *I didn't study. I failed.* — Tôi không học. Tôi trượt.
+- Tưởng tượng: *If I had studied, I would have passed.* — Nếu tôi đã học, tôi đã đậu.
+- Thực tế: *She didn't bring a map. She got lost.* — Cô ấy không mang bản đồ. Cô ấy bị lạc.
+- Tưởng tượng: *If she had brought a map, she wouldn't have got lost.* — Nếu cô ấy đã mang bản đồ, cô ấy đã không bị lạc.
+
+> **Quan trọng:** Câu điều kiện loại 3 = quá khứ **KHÔNG CÓ THẬT**. Nó không thay đổi được quá khứ — chỉ tưởng tượng!
+
+## 3. Đảo mệnh đề — Linh hoạt thứ tự
+
+**Tiếng Anh:** We can change the order of the two clauses. When the if-clause comes first, we use a comma. When the would/wouldn't have-clause comes first, we don't use a comma.
+
+**Tiếng Việt:** Có thể đặt mệnh đề **would** trước, mệnh đề **if** sau. If đứng trước thì có dấu phẩy; if đứng sau thì không có dấu phẩy.
+
+**Ví dụ:**
+- *If I had known, I would have told you.* — Nếu tôi đã biết, tôi đã nói với bạn (if trước → có dấu phẩy).
+- *I would have told you if I had known.* — Tôi đã nói với bạn nếu tôi đã biết (if sau → không dấu phẩy).
+- *If they hadn't found the treasure, they wouldn't have been rich.* — Nếu họ đã không tìm thấy kho báu, họ đã không giàu.
+- *They wouldn't have been rich if they hadn't found the treasure.* — Họ đã không giàu nếu họ đã không tìm thấy kho báu.
+
+## 4. MUST — Quy tắc / Bắt buộc
+
+**Tiếng Anh:** We use **must/mustn't** + base form when talking about rules.
+
+**Tiếng Việt:** Dùng **must + V(nguyên mẫu)** khi phải làm điều gì đó vì đó là quy tắc, luật lệ, hoặc nghĩa vụ mạnh.
+
+**Ví dụ:**
+- *You must wear a helmet.* — Bạn phải đội mũ bảo hiểm.
+- *You must listen to your instructor.* — Bạn phải lắng nghe hướng dẫn viên.
+- *Everyone must follow the safety rules.* — Mọi người phải tuân theo quy tắc an toàn.
+
+## 5. MUSTN'T vs DON'T HAVE TO — Cấm vs Không cần
+
+**Tiếng Anh:** We can't use **don't have to** in the same way as **mustn't**. We use **don't have to** + base form to say that it is not necessary to do something.
+
+**Tiếng Việt:** **mustn't** = **CẤM** (không được phép); **don't have to** = **KHÔNG CẦN** (không bắt buộc, tùy bạn).
+
+| Cấu trúc | Nghĩa | Ví dụ |
+|---|---|---|
+| mustn't | CẤM — vi phạm / nguy hiểm nếu làm | *You mustn't swim here.* (Cấm bơi ở đây.) |
+| don't have to | KHÔNG CẦN — có thể làm hoặc không | *You don't have to cook.* (Không cần nấu ăn.) |
+
+**Ví dụ:**
+- *You mustn't touch the exhibits.* — Bạn không được chạm vào hiện vật.
+- *You don't have to pay.* — Bạn không cần trả tiền.
+
+> **Mẹo nhớ:** *mustn't* = STOP! Don't do it! (cấm!); *don't have to* = It's OK, you can choose. (không bắt buộc).
+
+## 6. SHOULD / SHOULDN'T — Lời khuyên
+
+**Tiếng Anh:** We use **should/shouldn't/ought to/ought not to** + base form to give advice.
+
+**Tiếng Việt:** Dùng **should / shouldn't** (nên / không nên) để đưa ra lời khuyên, gợi ý.
+
+**Ví dụ:**
+- *You should drink more water.* — Bạn nên uống nhiều nước.
+- *You shouldn't stay up so late.* — Bạn không nên thức khuya.
+- *You should see a doctor.* — Bạn nên đi khám bác sĩ.
+- *You shouldn't eat so much sugar.* — Bạn không nên ăn nhiều đường.
+
+> **So sánh:** *should* = lời khuyên nhẹ nhàng (advice); *must* = bắt buộc mạnh (rule/obligation).
+
+## 7. HAVE TO — Nghĩa vụ từ bên ngoài
+
+**Tiếng Anh:** We use **have to** + base form to talk about something that is necessary to do. We can also use it in a similar way to **must** in rules.
+
+**Tiếng Việt:** Dùng **have to + V(nguyên mẫu)** khi phải làm điều gì đó vì ai đó / quy tắc bên ngoài yêu cầu.
+
+**Ví dụ:**
+- *I have to finish my homework.* — Tôi phải làm xong bài tập (giáo viên yêu cầu).
+- *She has to wear a uniform.* — Cô ấy phải mặc đồng phục (trường yêu cầu).
+- *He has to take medicine three times a day.* — Anh ấy phải uống thuốc ba lần một ngày (bác sĩ kê đơn).
+
+> **Lưu ý:** *have to* chia theo chủ ngữ — *I/You/We/They have to…*, *He/She/It has to…*; phủ định là *don't / doesn't have to*.
+
+## 8. Bảng so sánh nhanh: must vs have to vs should
+
+| Modal | Nghĩa | Mức độ | Ví dụ |
+|---|---|---|---|
+| must | Quy tắc / bắt buộc (nội tại) | Mạnh nhất | *You must wear a helmet.* |
+| mustn't | CẤM | Mạnh nhất | *You mustn't swim here.* |
+| have to | Cần thiết (bên ngoài yêu cầu) | Mạnh | *I have to finish by Friday.* |
+| don't have to | KHÔNG CẦN | Nhẹ | *You don't have to pay.* |
+| should | Nên (lời khuyên) | Nhẹ | *You should drink water.* |
+| shouldn't | Không nên (khuyên) | Nhẹ | *You shouldn't stay up late.* |
+
+## 9. Lỗi thường gặp
+
+- ❌ *If I would have studied harder, I would have passed.* → ✅ *If I had studied harder, I would have passed.* (mệnh đề **if** không bao giờ dùng *would*).
+- ❌ *If she had knew…* → ✅ *If she had known…* (sau *had* phải là **V3** past participle, không phải V2).
+- ❌ *You don't have to smoke here.* (nếu ý là CẤM) → ✅ *You mustn't smoke here.* (*mustn't* = CẤM, *don't have to* = KHÔNG CẦN).
+- ❌ *You must to arrive early.* / *You should to drink water.* → ✅ *You must arrive early.* / *You should drink water.* (sau *must/should/mustn't/shouldn't* không có *to*).
+- ❌ *You don't must run.* / *You don't should eat that.* → ✅ *You mustn't run.* / *You shouldn't eat that.* (modal phủ định thêm *not* vào modal, không dùng *don't*).11:["$","div",null,{"className":"mx-auto max-w-3xl px-4 py-8","children":[["$","$L1a",null,{"unitId":"unit-9"}],["$","nav",null,{"className":"mb-4 text-sm","children":["$","$L2",null,{"href":"/course/grade-6/grammar-friends-6/","className":"inline-flex items-center gap-1 text-muted-foreground transition-colors hover:text-primary","children":[["$","$L3",null,{"ref":"$undefined","iconNode":[["path",{"d":"m12 19-7-7 7-7","key":"1l729n"}],["path",{"d":"M19 12H5","key":"x3x0zl"}]],"className":"lucide-arrow-left size-4","aria-hidden":"true"}],"Quay lại khóa học"]}]}],["$","header",null,{"className":"mb-8","children":[["$","p",null,{"className":"text-xs font-semibold uppercase tracking-wide text-muted-foreground","children":"Unit 9: Active Living"}],["$","h1",null,{"className":"font-heading text-2xl font-extrabold text-foreground sm:text-3xl","children":"Ghi nhớ ngữ pháp"}]]}],["$","$L1b",null,{"lesson":{"frontmatter":{"section":"grammar"},"body":"$1c","viBody":"$undefined","questions":"$undefined","extra":"$undefined","theoryNotes":"$undefined","practice":"$undefined","audioSrcs":[],"vocabPreview":[],"vocabReviewOld":[],"hasDraftTranslation":false,"hasDraftExtra":false,"hasDraftTheory":false,"hasDraftPractice":false},"grade":"grade-6","book":"grammar-friends-6","section":"grammar","gameUnitId":"gf6-unit-9-active-living","quizTitle":"Ghi nhớ ngữ pháp","theory":{"brief":"Third conditional: If + had + past participle, would/wouldn't have + past participle — dùng cho tình huống tưởng tượng trong quá khứ. Modal verbs: must (bắt buộc), mustn't (cấm), should/shouldn't (lời khuyên), have to (cần thiết), don't have to (không cần thiết).","rules":["Third conditional: If + had + PP, would/wouldn't have + PP — tình huống không xảy ra trong quá khứ","Có thể đảo mệnh đề: Would have + PP + if + had + PP","must: quy tắc, bắt buộc (You must wear a helmet.)","mustn't: cấm, không được phép (You mustn't swim here.)","have to: cần thiết từ bên ngoài (I have to finish my homework.)","don't have to: không cần thiết (You don't have to pay.)","should/shouldn't: lời khuyên (You should drink more water.)"]}}]]}]
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#059669"}]]
+1d:I[27201,["/ngu-phap-6/_next/static/chunks/0s5e6lhaxs04x.js","/ngu-phap-6/_next/static/chunks/03_hl3a00zamr.js","/ngu-phap-6/_next/static/chunks/2j18oyssgechh.js","/ngu-phap-6/_next/static/chunks/27g-eozde523f.js","/ngu-phap-6/_next/static/chunks/1d3bqpisz4nu9.js","/ngu-phap-6/_next/static/chunks/2im7c515bo69p.js"],"IconMark"]
+14:null
+19:[["$","title","0",{"children":"Ghi nhớ ngữ pháp | Luyện Tiếng Anh"}],["$","meta","1",{"name":"description","content":"Học tiếng Anh qua trò chơi: ngữ pháp, từ vựng và luyện tập theo lớp và sách giáo khoa."}],["$","link","2",{"rel":"icon","href":"/ngu-phap-6/icons/icon-192.png"}],["$","link","3",{"rel":"apple-touch-icon","href":"/ngu-phap-6/icons/apple-touch-icon.png"}],["$","$L1d","4",{}]]
